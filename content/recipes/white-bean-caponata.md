@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Maltese Dishes', 'Maltese Food', 'Savoury']
 tags = ['aubergine', 'beans', 'cooking', 'eggplant', 'food', 'healthy', 'Italian', 'Maltese', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2021/03/18/white-bean-caponata']
-featured_image = '/images/caponata_whitebeans_KV-scaled.jpg'
+featured_image = '/images/caponata_whitebeans_KV-scaled.webp'
 
 [recipe]
   name = 'White Bean Caponata'
@@ -13,7 +13,7 @@ featured_image = '/images/caponata_whitebeans_KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/caponata_whitebeans_KV-scaled.jpg'
+  image = '/images/caponata_whitebeans_KV-scaled.webp'
   ingredients = [
     '2 medium aubergines, diced',
     'Vegetable/Olive oil',
@@ -55,10 +55,10 @@ I believe that caponata is best served the day after it is cooked. If this is no
 
 
 
-{{< figure src="/images/caponata_ingredients_KV-scaled.jpg">}}Simple ingredients can be turned into such an amazing dish!
+{{< figure src="/images/caponata_ingredients_KV-scaled.webp">}}Simple ingredients can be turned into such an amazing dish!
 
 
-{{< figure src="/images/caponata_KV.jpg">}}
+{{< figure src="/images/caponata_KV.webp">}}
 
 
-{{< figure src="/images/whitebean_caponata_KV.jpg">}}
+{{< figure src="/images/whitebean_caponata_KV.webp">}}

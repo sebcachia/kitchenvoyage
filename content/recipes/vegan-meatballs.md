@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beans', 'cashew nuts', 'delicious', 'dinner', 'food', 'meatballs', 'mushrooms', 'recipe', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2020/04/08/vegan-meatballs']
-featured_image = '/images/vegan_meatballs_mushrooms_KV-scaled.jpg'
+featured_image = '/images/vegan_meatballs_mushrooms_KV-scaled.webp'
 
 [recipe]
   name = "Vegan 'Meatballs'"
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_meatballs_mushrooms_KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/vegan_meatballs_mushrooms_KV-scaled.jpg'
+  image = '/images/vegan_meatballs_mushrooms_KV-scaled.webp'
   ingredients = [
     '*For the veggie balls:*',
     '4 tbsp olive oil',
@@ -76,4 +76,4 @@ I hope you give this recipe a go and that it will cheer you up while staying saf
 
 
 
-{{< figure src="/images/vegan_mushrooms_beans_meatballs_KV.jpg">}}
+{{< figure src="/images/vegan_mushrooms_beans_meatballs_KV.webp">}}

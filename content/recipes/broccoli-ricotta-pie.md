@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['broccoli', 'delicious', 'dinner', 'food', 'healthy', 'oats', 'pastry', 'picnic', 'pie', 'recipe', 'ricotta', 'vegetarian']
 aliases = ['/2018/07/05/broccoli-038-ricotta-pie']
-featured_image = '/images/ricottabroccolipie-1.jpg'
+featured_image = '/images/ricottabroccolipie-1.webp'
 
 [recipe]
   name = 'Broccoli and Ricotta Pie'
@@ -13,7 +13,7 @@ featured_image = '/images/ricottabroccolipie-1.jpg'
   yield = 'Serves 4'
   totalTime = '60 mins'
   difficulty = 'easy'
-  image = '/images/ricottabroccolipie-1.jpg'
+  image = '/images/ricottabroccolipie-1.webp'
   ingredients = [
     '*For the pie crust:*',
     '100g rolled oats',

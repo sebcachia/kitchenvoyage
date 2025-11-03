@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'lentils', 'moussaka', 'recipe', 'vegetables', 'vegetarian', 'zucchini']
 aliases = ['/2019/10/10/vegetarian-moussaka']
-featured_image = '/images/vegetarian_moussaka_KV.jpg'
+featured_image = '/images/vegetarian_moussaka_KV.webp'
 
 [recipe]
   name = 'Vegetarian Moussaka'
@@ -13,7 +13,7 @@ featured_image = '/images/vegetarian_moussaka_KV.jpg'
   yield = 'Serves 4-6'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/vegetarian_moussaka_KV.jpg'
+  image = '/images/vegetarian_moussaka_KV.webp'
   ingredients = [
     '1 large eggplant, thinly sliced',
     '2 medium zucchini, thinly sliced',
@@ -66,7 +66,7 @@ This vegetarian moussaka is best served warm. Any leftovers should be stored in 
 
 
 
-{{< figure src="/images/moussaka_vegetarian_KV.jpg">}}
+{{< figure src="/images/moussaka_vegetarian_KV.webp">}}
 
 
-{{< figure src="/images/vegetarian_moussaka_KV.jpg">}}
+{{< figure src="/images/vegetarian_moussaka_KV.webp">}}

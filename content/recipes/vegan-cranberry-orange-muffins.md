@@ -5,14 +5,14 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'cranberries', 'cupcakes', 'delicious', 'dessert', 'food', 'homemade', 'muffins', 'oranges', 'recipe', 'sweets', 'treats', 'vegan', 'vegetarian']
 aliases = ['/2018/05/17/vegan-cranberry-orange-muffins']
-featured_image = '/images/orangecranberrymuffins.jpg'
+featured_image = '/images/orangecranberrymuffins.webp'
 
 [recipe]
   description = 'Soft, fruity, tangy and scrumptious muffins with a nutty crunch'
   yield = 'Serves 18 muffins'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/orangecranberrymuffins.jpg'
+  image = '/images/orangecranberrymuffins.webp'
   ingredients = [
     '250g all purpose flour',
     '120g dark soft brown sugar',

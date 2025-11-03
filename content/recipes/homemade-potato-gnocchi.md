@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'gnocchi', 'homemade', 'Italian', 'lunch', 'recipe']
 aliases = ['/2017/03/21/homemade-potato-gnocchi']
-featured_image = '/images/gnocchi_tomatosauce.jpg'
+featured_image = '/images/gnocchi_tomatosauce.webp'
 
 [recipe]
   name = 'Homemade Potato Gnocchi'
@@ -13,7 +13,7 @@ featured_image = '/images/gnocchi_tomatosauce.jpg'
   yield = 'Serves 4-6'
   totalTime = '2hr 30mins'
   difficulty = 'easy'
-  image = '/images/gnocchi_tomatosauce.jpg'
+  image = '/images/gnocchi_tomatosauce.webp'
   ingredients = [
     '600g potatoes',
     '160g flour',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beans', 'delicious', 'dinner', 'food', 'glutenfree', 'healthy', 'homemade', 'meatloaf', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2020/02/21/vegan-meatloaf']
-featured_image = '/images/Vegan_Meatloaf_Beans_KV-scaled.jpg'
+featured_image = '/images/Vegan_Meatloaf_Beans_KV-scaled.webp'
 
 [recipe]
   name = 'Vegan Meatloaf'
@@ -13,7 +13,7 @@ featured_image = '/images/Vegan_Meatloaf_Beans_KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/Vegan_Meatloaf_Beans_KV-scaled.jpg'
+  image = '/images/Vegan_Meatloaf_Beans_KV-scaled.webp'
   ingredients = [
     '2 tbsp flaxmeal',
     '80g water',
@@ -70,7 +70,7 @@ A variation this meatloaf is the Lentil Loaf which I have posted here a while ba
 
 
 
-{{< figure src="/images/Meatloaf_Vegan_KV.jpg">}}
+{{< figure src="/images/Meatloaf_Vegan_KV.webp">}}
 
 
-{{< figure src="/images/Vegan_Meatloaf_side_KV.jpg">}}
+{{< figure src="/images/Vegan_Meatloaf_side_KV.webp">}}

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cauliflower', 'delicious', 'dinner', 'food', 'healthy', 'recipe', 'salad', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2020/03/02/vegan-buffalo-cauliflower']
-featured_image = '/images/vegan-buffalo-cauliflower-KV-scaled.jpg'
+featured_image = '/images/vegan-buffalo-cauliflower-KV-scaled.webp'
 
 [recipe]
   name = 'Vegan Buffalo Cauliflower'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan-buffalo-cauliflower-KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/vegan-buffalo-cauliflower-KV-scaled.jpg'
+  image = '/images/vegan-buffalo-cauliflower-KV-scaled.webp'
   ingredients = [
     '1 cauliflower head, cut into large florets',
     '100g all-purpose flour',
@@ -55,10 +55,10 @@ These cauliflower bites are best served hot,  fresh from the oven. Over time, th
 
 
 
-{{< figure src="/images/vegan-buffalo-cauliflower-tacos-KV.jpg">}}
+{{< figure src="/images/vegan-buffalo-cauliflower-tacos-KV.webp">}}
 
 
-{{< figure src="/images/buffalo_cauliflower_vegan_taco_KV.jpg">}}
+{{< figure src="/images/buffalo_cauliflower_vegan_taco_KV.webp">}}
 
 
-{{< figure src="/images/vegan_buffalo_cauliflower_taco_KV.jpg">}}
+{{< figure src="/images/vegan_buffalo_cauliflower_taco_KV.webp">}}

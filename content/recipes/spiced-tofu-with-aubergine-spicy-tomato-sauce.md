@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'homemade', 'lunch', 'recipe', 'tofu', 'tomatoes', 'vegan', 'vegetarian', 'weeknight']
 aliases = ['/2017/11/16/spiced-tofu-with-aubergine-038-spicy-tomato-sauce']
-featured_image = '/images/tofuaubergine.jpg'
+featured_image = '/images/tofuaubergine.webp'
 
 [recipe]
   name = 'Spiced Tofu with Aubergine and Spicy Tomato Sauce'
@@ -13,7 +13,7 @@ featured_image = '/images/tofuaubergine.jpg'
   yield = 'Serves 2'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/tofuaubergine.jpg'
+  image = '/images/tofuaubergine.webp'
   ingredients = [
     '*For the tomato sauce:*',
     '1 tbsp coconut oil',

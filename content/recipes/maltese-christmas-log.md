@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Food', 'Maltese Sweets', 'Sweets']
 tags = ['cake', 'Christmas', 'delicious', 'dessert', 'food', 'homemade', 'Malta', 'Maltese', 'no-bake', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2017/12/20/maltese-christmas-log']
-featured_image = '/images/ChristmasLog.jpg'
+featured_image = '/images/ChristmasLog.webp'
 featured = true
 
 
@@ -14,7 +14,7 @@ featured = true
   description = 'Great to serve with a warm cup of tea or mulled wine!'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/ChristmasLog.jpg'
+  image = '/images/ChristmasLog.webp'
   ingredients = [
     '350g semi-sweet biscuits (I used Morning Coffee)',
     '250g mixed fruit (including sultanas, raisins, glazed cherries and candied peel)',

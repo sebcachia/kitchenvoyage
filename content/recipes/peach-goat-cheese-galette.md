@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury', 'Sweets']
 tags = ['food', 'healthy', 'oats', 'pastry', 'peach', 'pie', 'recipe', 'sweet and savoury', 'vegetarian']
 aliases = ['/2020/09/11/peach-goat-cheese-galette']
-featured_image = '/images/galette_peach_goatcheese_KV.jpg'
+featured_image = '/images/galette_peach_goatcheese_KV.webp'
 
 [recipe]
   name = 'Peach and Goat Cheese Galette'
@@ -13,7 +13,7 @@ featured_image = '/images/galette_peach_goatcheese_KV.jpg'
   yield = 'Serves 4, as a starter'
   totalTime = '45 mins'
   difficulty = 'easy'
-  image = '/images/galette_peach_goatcheese_KV.jpg'
+  image = '/images/galette_peach_goatcheese_KV.webp'
   ingredients = [
     '*For the pastry crust:*',
     '50g rolled oats',
@@ -64,4 +64,4 @@ I hope you try it out before this season's peaches disappear and you enjoy it as
 {{< recipe >}}
 
 
-{{< figure src="/images/Peach_goatcheese_galette_KV.jpg">}}
+{{< figure src="/images/Peach_goatcheese_galette_KV.webp">}}

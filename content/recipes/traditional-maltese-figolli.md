@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Food', 'Maltese Sweets', 'Sweets']
 tags = ['almonds', 'cookies', 'delicious', 'Easter', 'figolli', 'food', 'homemade', 'Malta', 'Maltese', 'recipe', 'sweets', 'traditional', 'treats']
 aliases = ['/2016/03/26/traditional-maltese-figolli']
-featured_image = '/images/figolla.jpg'
+featured_image = '/images/figolla.webp'
 featured = true
 
 [recipe]
@@ -14,7 +14,7 @@ featured = true
   yield = 'Serves 7 large figolli'
   totalTime = '2hrs'
   difficulty = 'easy'
-  image = '/images/figolla.jpg'
+  image = '/images/figolla.webp'
   ingredients = [
     '*For Pastry:*',
     '1 kg plain flour',

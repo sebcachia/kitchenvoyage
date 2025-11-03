@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'featured', 'food', 'healthy', 'Italian', 'pasta', 'pumpkin', 'recipe', 'vegetarian', 'weeknight']
 aliases = ['/2018/04/11/pasta-with-creamy-roasted-pumpkin']
-featured_image = '/images/pumpkinpasta2.jpg'
+featured_image = '/images/pumpkinpasta2.webp'
 
 [recipe]
   name = 'Pasta with Creamy Roasted Pumpkin'
@@ -13,7 +13,7 @@ featured_image = '/images/pumpkinpasta2.jpg'
   yield = 'Serves 2'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/pumpkinpasta2.jpg'
+  image = '/images/pumpkinpasta2.webp'
   ingredients = [
     '500g pumpkin',
     '2 tbsp olive oil',

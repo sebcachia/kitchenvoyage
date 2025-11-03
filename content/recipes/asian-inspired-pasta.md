@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['Asian', 'broccoli', 'delicious', 'food', 'lunch', 'miso paste', 'pasta', 'recipe', 'salad', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2020/04/17/asian-inspired-pasta']
-featured_image = '/images/vegan_asian_fusion_pasta_KV-scaled.jpg'
+featured_image = '/images/vegan_asian_fusion_pasta_KV-scaled.webp'
 
 [recipe]
   name = 'Asia-inspired Pasta'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_asian_fusion_pasta_KV-scaled.jpg'
   yield = 'Serves 2'
   totalTime = '20mins'
   difficulty = 'easy'
-  image = '/images/vegan_asian_fusion_pasta_KV-scaled.jpg'
+  image = '/images/vegan_asian_fusion_pasta_KV-scaled.webp'
   ingredients = [
     '160g wholewheat penne *rigate*',
     '100g frozen broccoli florets',
@@ -55,4 +55,4 @@ The amounts below are enough for 2 servings. However, it is easy to double up th
 
 
 
-{{< figure src="/images/vegan_asian_fusion_pasta_KV.jpg">}}
+{{< figure src="/images/vegan_asian_fusion_pasta_KV.webp">}}

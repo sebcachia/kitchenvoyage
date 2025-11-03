@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Condiments', 'Food', 'Sweets']
 tags = ['breakfast', 'citrus', 'food', 'homemade', 'jam', 'marmalade', 'oranges', 'preserves', 'recipe']
 aliases = ['/2018/02/01/homemade-orange-marmalade']
-featured_image = '/images/marmalade.jpg'
+featured_image = '/images/marmalade.webp'
 
 [recipe]
   name = 'Homemade Orange Marmalade'
@@ -13,7 +13,7 @@ featured_image = '/images/marmalade.jpg'
   yield = 'Serves 3 jars'
   totalTime = '3hrs'
   difficulty = 'easy'
-  image = '/images/marmalade.jpg'
+  image = '/images/marmalade.webp'
   ingredients = [
     '6 medium oranges',
     '3 tbsp golden syrup, heaped',

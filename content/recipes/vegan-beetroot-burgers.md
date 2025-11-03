@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beetroot', 'buns', 'burger', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lentils', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2019/06/12/vegan-beetroot-burgers']
-featured_image = '/images/KV_vegan_beetroot_burger.jpg'
+featured_image = '/images/KV_vegan_beetroot_burger.webp'
 
 [recipe]
   name = 'Vegan Beetroot Burgers'
@@ -13,7 +13,7 @@ featured_image = '/images/KV_vegan_beetroot_burger.jpg'
   yield = 'Serves 8 burgers'
   totalTime = '20 mins'
   difficulty = 'easy'
-  image = '/images/KV_vegan_beetroot_burger.jpg'
+  image = '/images/KV_vegan_beetroot_burger.webp'
   ingredients = [
     '100g dried red lentils',
     '250g vegetable stock',
@@ -65,10 +65,10 @@ Happy grilling!! 🍔🍻
 
 
 
-{{< figure src="/images/vegan_beetroot_burgers.jpg">}}
+{{< figure src="/images/vegan_beetroot_burgers.webp">}}
 
 
-{{< figure src="/images/vegan_beetroot_burger.jpg">}}
+{{< figure src="/images/vegan_beetroot_burger.webp">}}
 
 
-{{< figure src="/images/vegan_beetroot_burger_cross.jpg">}}
+{{< figure src="/images/vegan_beetroot_burger_cross.webp">}}

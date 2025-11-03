@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['baking', 'bread', 'breakfast', 'brunch', 'cooking', 'corn', 'cornbread', 'food', 'healthy', 'homemade', 'lunch', 'polenta', 'recipe', 'Southern food', 'vegetarian']
 aliases = ['/2017/07/06/savoury-cornbread']
-featured_image = '/images/cornbread2.jpg'
+featured_image = '/images/cornbread2.webp'
 
 [recipe]
   name = 'Simple Savoury Cornbread'
@@ -13,7 +13,7 @@ featured_image = '/images/cornbread2.jpg'
   yield = 'Serves 4'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/cornbread2.jpg'
+  image = '/images/cornbread2.webp'
   ingredients = [
     '170g cheddar cheese, shredded',
     '2 tomatoes, diced',

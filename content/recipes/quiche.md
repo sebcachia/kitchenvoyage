@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['brunch', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lunch', 'pie', 'quiche', 'recipe', 'vegetarian']
 aliases = ['/2016/08/16/quiche']
-featured_image = '/images/img_20160722_1904571.jpg'
+featured_image = '/images/img_20160722_1904571.webp'
 
 [recipe]
   name = 'Quiche'
@@ -13,7 +13,7 @@ featured_image = '/images/img_20160722_1904571.jpg'
   yield = 'Serves 2'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/img_20160722_1904571.jpg'
+  image = '/images/img_20160722_1904571.webp'
   ingredients = [
     'Shortcrust pastry',
     '3 egg',

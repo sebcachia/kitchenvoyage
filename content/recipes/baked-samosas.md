@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['food', 'healthy', 'Indian', 'recipe', 'samosa', 'vegetarian']
 aliases = ['/2019/08/01/baked-samosas']
-featured_image = '/images/baked_samosa_KV.jpg'
+featured_image = '/images/baked_samosa_KV.webp'
 
 [recipe]
   name = 'Baked Samosa'
@@ -13,7 +13,7 @@ featured_image = '/images/baked_samosa_KV.jpg'
   yield = 'Serves 12-15 samosas'
   totalTime = '1hr 30mins'
   difficulty = 'medium'
-  image = '/images/baked_samosa_KV.jpg'
+  image = '/images/baked_samosa_KV.webp'
   ingredients = [
     '*For the dough:*',
     '175g plain flour',
@@ -77,7 +77,7 @@ I have decided to try making them at home. I was challenged by how they are fold
 
 
 
-{{< figure src="/images/samosa_filling_KV.jpg">}}
+{{< figure src="/images/samosa_filling_KV.webp">}}
 
 
-{{< figure src="/images/samosa_baked_KV.jpg">}}
+{{< figure src="/images/samosa_baked_KV.webp">}}

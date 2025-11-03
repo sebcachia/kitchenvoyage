@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Dishes', 'Maltese Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'homemade', 'lunch', 'recipe', 'rice', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2017/06/22/mediterranean-style-stuffed-bell-peppers']
-featured_image = '/images/medpeppers1.jpg'
+featured_image = '/images/medpeppers1.webp'
 
 [recipe]
   name = 'Mediterranean Style Stuffed Red Peppers'
@@ -13,7 +13,7 @@ featured_image = '/images/medpeppers1.jpg'
   yield = 'Serves 2'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/medpeppers1.jpg'
+  image = '/images/medpeppers1.webp'
   ingredients = [
     '2 large bell peppers, any colour',
     '100g wholemeal rice',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'mushrooms', 'polenta', 'recipe', 'spinach', 'tomatoes', 'vegan', 'vegetables', 'vegetarian', 'weeknight']
 aliases = ['/2020/04/30/mushrooms-with-sun-dried-tomatoes-038-spinach']
-featured_image = '/images/vegan_mushrooms_polenta_KV-scaled.jpg'
+featured_image = '/images/vegan_mushrooms_polenta_KV-scaled.webp'
 
 [recipe]
   name = 'Mushrooms with Sun-dried tomatoes and Baby spinach'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_mushrooms_polenta_KV-scaled.jpg'
   yield = 'Serves 2'
   totalTime = '20mins'
   difficulty = 'easy'
-  image = '/images/vegan_mushrooms_polenta_KV-scaled.jpg'
+  image = '/images/vegan_mushrooms_polenta_KV-scaled.webp'
   ingredients = [
     '400g mushrooms, thickly sliced',
     '2 tbsp olive oil',
@@ -70,7 +70,7 @@ If you enjoy mushrooms, here are some other recipes for you:
 
 
 
-{{< figure src="/images/vegan_mushrooms_spinach_tomatoes_KV.jpg">}}
+{{< figure src="/images/vegan_mushrooms_spinach_tomatoes_KV.webp">}}
 
 
-{{< figure src="/images/vegan_mushrooms_polenta_KV.jpg">}}
+{{< figure src="/images/vegan_mushrooms_polenta_KV.webp">}}

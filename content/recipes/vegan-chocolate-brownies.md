@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['aquafaba', 'baking', 'brownies', 'chocolate', 'delicious', 'dessert', 'food', 'homemade', 'recipe', 'sweets', 'treats', 'vegan']
 aliases = ['/2019/06/05/vegan-chocolate-brownies']
-featured_image = '/images/Chocolate_Brownie_Vegan_KV.jpg'
+featured_image = '/images/Chocolate_Brownie_Vegan_KV.webp'
 
 [recipe]
   name = 'Vegan Chocolate Brownies'
@@ -13,7 +13,7 @@ featured_image = '/images/Chocolate_Brownie_Vegan_KV.jpg'
   yield = 'Serves 12-16'
   totalTime = '45 mins'
   difficulty = 'easy'
-  image = '/images/Chocolate_Brownie_Vegan_KV.jpg'
+  image = '/images/Chocolate_Brownie_Vegan_KV.webp'
   ingredients = [
     '350g dark chocolate, roughly chopped',
     '120g coconut oil',
@@ -59,4 +59,4 @@ Serve these brownies with a scoop of (vegan) vanilla ice-cream for a truly decad
 
 
 
-{{< figure src="/images/Vegan_Chocolate_Brownie_KV.jpg">}}
+{{< figure src="/images/Vegan_Chocolate_Brownie_KV.webp">}}

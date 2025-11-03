@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cabbage', 'delicious', 'food', 'German food', 'homemade', 'recipe', 'sauerkraut', 'vegan', 'vegetarian']
 aliases = ['/2019/03/28/vegetarian-sauerkraut-patties']
-featured_image = '/images/sauerkraut_patties.jpg'
+featured_image = '/images/sauerkraut_patties.webp'
 
 [recipe]
   name = 'Vegetarian Sauerkraut Patties'
@@ -13,7 +13,7 @@ featured_image = '/images/sauerkraut_patties.jpg'
   yield = 'Serves Makes 12-15 patties'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/sauerkraut_patties.jpg'
+  image = '/images/sauerkraut_patties.webp'
   ingredients = [
     '*For the patties:*',
     '2 medium potatoes',
@@ -82,10 +82,10 @@ With minor adjustments to the following recipe, these sauerkraut patties can als
 
 
 
-{{< figure src="/images/sauerkraut_patties_breading.jpg">}}
+{{< figure src="/images/sauerkraut_patties_breading.webp">}}
 
 
-{{< figure src="/images/sauerkraut_patties_1.jpg">}}
+{{< figure src="/images/sauerkraut_patties_1.webp">}}
 
 
-{{< figure src="/images/sauerkraut_patties_crosssection.jpg">}}
+{{< figure src="/images/sauerkraut_patties_crosssection.webp">}}

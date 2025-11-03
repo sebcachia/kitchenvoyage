@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['brussels sprouts', 'cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'miso paste', 'recipe', 'rice', 'vegan', 'vegetarian', 'weeknight']
 aliases = ['/2018/01/24/miso-rice-with-brussels-sprouts-038-peanuts']
-featured_image = '/images/rice_miso_plate.jpg'
+featured_image = '/images/rice_miso_plate.webp'
 
 [recipe]
   name = 'Miso-flavoured Rice with Brussels Sprouts and Peanuts'
@@ -13,7 +13,7 @@ featured_image = '/images/rice_miso_plate.jpg'
   yield = 'Serves 2'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/rice_miso_plate.jpg'
+  image = '/images/rice_miso_plate.webp'
   ingredients = [
     '120g brown and wild rice',
     '2 tbsp dark miso paste',

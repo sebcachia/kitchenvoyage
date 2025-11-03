@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['bread', 'buns', 'burger', 'dinner', 'food', 'homemade', 'recipe']
 aliases = ['/2020/02/06/homemade-burger-buns']
-featured_image = '/images/burger_buns_homemade_KV-scaled.jpg'
+featured_image = '/images/burger_buns_homemade_KV-scaled.webp'
 
 [recipe]
   name = 'Homemade Burger Buns'
@@ -13,7 +13,7 @@ featured_image = '/images/burger_buns_homemade_KV-scaled.jpg'
   yield = 'Serves 8 buns'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/burger_buns_homemade_KV-scaled.jpg'
+  image = '/images/burger_buns_homemade_KV-scaled.webp'
   ingredients = [
     '7g active-dry yeast',
     '435g all purpose flour *(see note below)',
@@ -52,4 +52,4 @@ Any leftover buns/rolls can be stored in the freezer for a couple of weeks. All 
 
 
 
-{{< figure src="/images/Burger_buns_KV.jpg">}}
+{{< figure src="/images/Burger_buns_KV.webp">}}

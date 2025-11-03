@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'cooking', 'curry', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'Indian', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2018/03/28/creamy-aubergine-curry']
-featured_image = '/images/auberginecurrydish.jpg'
+featured_image = '/images/auberginecurrydish.webp'
 
 [recipe]
   name = 'Creamy Aubergine Curry'
@@ -13,7 +13,7 @@ featured_image = '/images/auberginecurrydish.jpg'
   yield = 'Serves 2-3'
   totalTime = '90 mins'
   difficulty = 'easy'
-  image = '/images/auberginecurrydish.jpg'
+  image = '/images/auberginecurrydish.webp'
   ingredients = [
     '1 large aubergine',
     '4-6 tbsp olive oil',

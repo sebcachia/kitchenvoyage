@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['asparagus', 'baking', 'bread', 'delicious', 'food', 'healthy', 'homemade', 'olive', 'recipe', 'tomatoes', 'vegetarian']
 aliases = ['/2020/06/22/asparagus-sun-dried-tomato-038-olive-loaf']
-featured_image = '/images/asparagus_olive_tomato_loaf_KV-scaled.jpg'
+featured_image = '/images/asparagus_olive_tomato_loaf_KV-scaled.webp'
 
 [recipe]
   name = 'Asparagus, Sun-dried Tomato and Olive Loaf'
@@ -13,7 +13,7 @@ featured_image = '/images/asparagus_olive_tomato_loaf_KV-scaled.jpg'
   yield = 'Serves 10-12 slices'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/asparagus_olive_tomato_loaf_KV-scaled.jpg'
+  image = '/images/asparagus_olive_tomato_loaf_KV-scaled.webp'
   ingredients = [
     '100g plain flour',
     '100g wholemeal flour',
@@ -61,7 +61,7 @@ This loaf is perfect for lunch or as a snack. It is also great to share with fam
 
 
 
-{{< figure src="/images/asparagus_olive_loaf_KV.jpg">}}
+{{< figure src="/images/asparagus_olive_loaf_KV.webp">}}
 
 
-{{< figure src="/images/asparagus_olive_tomato_loaf_KV.jpg">}}
+{{< figure src="/images/asparagus_olive_tomato_loaf_KV.webp">}}

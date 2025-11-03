@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Food', 'Maltese Sweets', 'Sweets']
 tags = ['almonds', 'cookies', 'delicious', 'Easter', 'food', 'homemade', 'Lent', 'Malta', 'Maltese', 'recipe', 'sweets', 'traditional', 'treats', 'vegan']
 aliases = ['/2017/03/15/kwarezimal-maltese-lenten-cookies']
-featured_image = '/images/kwarezimal2.jpg'
+featured_image = '/images/kwarezimal2.webp'
 
 [recipe]
   name = 'Kwareżimal'
@@ -13,7 +13,7 @@ featured_image = '/images/kwarezimal2.jpg'
   yield = 'Serves 20-25 cookies'
   totalTime = '1 hr 30 mins'
   difficulty = 'easy'
-  image = '/images/kwarezimal2.jpg'
+  image = '/images/kwarezimal2.webp'
   ingredients = [
     '250ml fresh orange juice',
     '2 tbsp orange blossom water',

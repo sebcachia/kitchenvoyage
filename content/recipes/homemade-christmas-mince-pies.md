@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['Christmas', 'dessert', 'food', 'mince pies', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2018/11/23/homemade-christmas-mince-pies']
-featured_image = '/images/mincepies_christmas.jpg'
+featured_image = '/images/mincepies_christmas.webp'
 
 [recipe]
   name = 'Homemade Christmas Mince Pies'
@@ -13,7 +13,7 @@ featured_image = '/images/mincepies_christmas.jpg'
   yield = 'Serves 18-20'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/mincepies_christmas.jpg'
+  image = '/images/mincepies_christmas.webp'
   ingredients = [
     'For the mincemeat:',
     '2 large apples, peeled cored and finely diced',

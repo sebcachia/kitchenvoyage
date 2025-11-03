@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['baking', 'bread', 'breakfast', 'brunch', 'cooking', 'delicious', 'food', 'healthy', 'homemade', 'lunch', 'muffins', 'recipe', 'vegetarian', 'zucchini']
 aliases = ['/2017/07/13/cheesy-zucchini-muffins']
-featured_image = '/images/savourymuffins.jpg'
+featured_image = '/images/savourymuffins.webp'
 
 [recipe]
   name = 'Cheesy Zucchini Muffins'
@@ -13,7 +13,7 @@ featured_image = '/images/savourymuffins.jpg'
   yield = 'Serves 18 muffins'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/savourymuffins.jpg'
+  image = '/images/savourymuffins.webp'
   ingredients = [
     '360g all purpose flour',
     '2 1/2 tsp baking powder',

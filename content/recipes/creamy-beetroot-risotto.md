@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beetroot', 'delicious', 'dinner', 'healthy', 'homemade', 'Italian', 'recipe', 'rice', 'risotto', 'vegetarian']
 aliases = ['/2018/05/30/creamy-beetroot-risotto']
-featured_image = '/images/beetrootrisotto1.jpg'
+featured_image = '/images/beetrootrisotto1.webp'
 
 [recipe]
   name = 'Creamy Beetroot Risotto'
@@ -13,7 +13,7 @@ featured_image = '/images/beetrootrisotto1.jpg'
   yield = 'Serves 2'
   totalTime = '1hr 30mins'
   difficulty = 'easy'
-  image = '/images/beetrootrisotto1.jpg'
+  image = '/images/beetrootrisotto1.webp'
   ingredients = [
     '4 large beetroots, roasted',
     '4 large kale leaves',

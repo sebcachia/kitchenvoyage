@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'Chinese', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'recipe', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2019/05/02/chinese-sticky-aubergine']
-featured_image = '/images/chinese_sticky_aubergine.jpg'
+featured_image = '/images/chinese_sticky_aubergine.webp'
 
 [recipe]
   name = 'Chinese Sticky Aubergine'
@@ -13,7 +13,7 @@ featured_image = '/images/chinese_sticky_aubergine.jpg'
   yield = 'Serves 2'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/chinese_sticky_aubergine.jpg'
+  image = '/images/chinese_sticky_aubergine.webp'
   ingredients = [
     '1 large aubergine',
     '1 tsp sea salt',
@@ -62,4 +62,4 @@ One of the tricks that I learnt for a crispy yet soft aubergine is to let the ch
 
 
 
-{{< figure src="/images/chinese-sticky-aubergine.jpg">}}
+{{< figure src="/images/chinese-sticky-aubergine.webp">}}

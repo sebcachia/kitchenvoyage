@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['bread', 'buns', 'delicious', 'food', 'healthy', 'homemade', 'hot dogs', 'lentils', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2019/05/09/vegan-hot-dogs']
-featured_image = '/images/vegan_hot_dog_fries.jpg'
+featured_image = '/images/vegan_hot_dog_fries.webp'
 
 [recipe]
   name = 'Vegan Hot Dogs'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_hot_dog_fries.jpg'
   yield = 'Serves Makes 12 sausages'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/vegan_hot_dog_fries.jpg'
+  image = '/images/vegan_hot_dog_fries.webp'
   ingredients = [
     '200g dried red lentils',
     '500g vegetable stock',
@@ -66,13 +66,13 @@ Note: The recipe for the buns is *not* vegan. Therefore, please make sure that y
 
 
 
-{{< figure src="/images/vegan_hot_dogs_lentils.jpg">}}
+{{< figure src="/images/vegan_hot_dogs_lentils.webp">}}
 
 
-{{< figure src="/images/vegan_hot_dogs.jpg">}}
+{{< figure src="/images/vegan_hot_dogs.webp">}}
 
 
-{{< figure src="/images/vegan_hot_dog_fries.jpg">}}
+{{< figure src="/images/vegan_hot_dog_fries.webp">}}
 
 
-{{< figure src="/images/vegan_lentil_hot_dog.jpg">}}
+{{< figure src="/images/vegan_lentil_hot_dog.webp">}}

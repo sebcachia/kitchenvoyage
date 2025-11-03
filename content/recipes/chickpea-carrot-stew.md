@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['chickpea', 'delicious', 'dinner', 'food', 'healthy', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2019/04/04/chickpea-038-carrot-stew']
-featured_image = '/images/chickpea_carrot_feta_stew.jpg'
+featured_image = '/images/chickpea_carrot_feta_stew.webp'
 
 [recipe]
   name = 'Chickpea and Carrot Stew'
@@ -13,7 +13,7 @@ featured_image = '/images/chickpea_carrot_feta_stew.jpg'
   yield = 'Serves 2'
   totalTime = '2hrs'
   difficulty = 'easy'
-  image = '/images/chickpea_carrot_feta_stew.jpg'
+  image = '/images/chickpea_carrot_feta_stew.webp'
   ingredients = [
     '200g dried chickpeas, soaked overnight (or 400g can chickpeas)',
     '1 onion',
@@ -63,4 +63,4 @@ This hearty dish can be served with rice and/or flatbread.
 
 
 
-{{< figure src="/images/chickpea_carrot_stew.jpg">}}
+{{< figure src="/images/chickpea_carrot_stew.webp">}}

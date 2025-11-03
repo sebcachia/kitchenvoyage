@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'lunch', 'middle eastern', 'ras el hanout', 'recipe', 'salad', 'vegetarian']
 aliases = ['/2018/09/29/middle-eastern-inspired-halloumi']
-featured_image = '/images/halloumi_cheese.jpg'
+featured_image = '/images/halloumi_cheese.webp'
 
 [recipe]
   name = 'Middle Eastern Inspired Halloumi'
@@ -13,7 +13,7 @@ featured_image = '/images/halloumi_cheese.jpg'
   yield = 'Serves 2'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/halloumi_cheese.jpg'
+  image = '/images/halloumi_cheese.webp'
   ingredients = [
     '250g halloumi cheese',
     '120g bulgur wheat',

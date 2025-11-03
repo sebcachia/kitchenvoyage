@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Dishes', 'Maltese Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'Malta', 'Maltese', 'recipe', 'rice', 'traditional', 'vegetarian']
 aliases = ['/2019/07/25/maltese-ross-il-forn-8211-baked-rice']
-featured_image = '/images/maltese_baked_rice_ross-il-forn_KV.jpg'
+featured_image = '/images/maltese_baked_rice_ross-il-forn_KV.webp'
 featured = true
 
 [recipe]
@@ -14,7 +14,7 @@ featured = true
   yield = 'Serves 8'
   totalTime = '1hr 15mins'
   difficulty = 'easy'
-  image = '/images/maltese_baked_rice_ross-il-forn_KV.jpg'
+  image = '/images/maltese_baked_rice_ross-il-forn_KV.webp'
   ingredients = [
     '500g wholegrain rice',
     '1 tsp dried oregano',
@@ -71,10 +71,10 @@ Here's my vegetarian twist on the tradition Maltese *Ross il-Forn*... Enjoy! :D
 
 
 
-{{< figure src="/images/ross-il-forn_maltese_baked_rice_KV.jpg">}}
+{{< figure src="/images/ross-il-forn_maltese_baked_rice_KV.webp">}}
 
 
-{{< figure src="/images/maltese_ross-il-forn_baked_rice_KV.jpg">}}
+{{< figure src="/images/maltese_ross-il-forn_baked_rice_KV.webp">}}
 
 
-{{< figure src="/images/baked_rice_maltese_ross-il-forn_KV.jpg">}}
+{{< figure src="/images/baked_rice_maltese_ross-il-forn_KV.webp">}}

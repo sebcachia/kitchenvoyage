@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'cooking', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'lentils', 'polenta', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2018/06/26/roasted-aubergine-038-green-lentils']
-featured_image = '/images/auberginepolenta.jpg'
+featured_image = '/images/auberginepolenta.webp'
 
 [recipe]
   name = 'Roasted Aubergine and Green Lentils'
@@ -13,7 +13,7 @@ featured_image = '/images/auberginepolenta.jpg'
   yield = 'Serves 2'
   totalTime = '90 mins'
   difficulty = 'easy'
-  image = '/images/auberginepolenta.jpg'
+  image = '/images/auberginepolenta.webp'
   ingredients = [
     '1 large aubergine',
     '2-4 tbsp olive oil',

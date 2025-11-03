@@ -59,10 +59,10 @@ The base of the cornbread remains the same as my previous recipe. So if you have
 [/recipe-directions]
 
 
-{{< figure src="/images/feta_jalapeno_cornbread_kv.jpg">}}
+{{< figure src="/images/feta_jalapeno_cornbread_kv.webp">}}
 
 
-{{< figure src="/images/jalapeno_feta_cornbread_kv.jpg">}}
+{{< figure src="/images/jalapeno_feta_cornbread_kv.webp">}}
 
 
-{{< figure src="/images/cornbread_feta_jalapeno_kv.jpg">}}
+{{< figure src="/images/cornbread_feta_jalapeno_kv.webp">}}

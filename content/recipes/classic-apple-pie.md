@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['apple', 'baking', 'cake', 'delicious', 'dessert', 'food', 'homemade', 'pie', 'recipe', 'sweets']
 aliases = ['/2019/09/19/classic-apple-pie']
-featured_image = '/images/apple_pie_cake_KV.jpg'
+featured_image = '/images/apple_pie_cake_KV.webp'
 
 [recipe]
   name = 'Apple Pie'
@@ -13,7 +13,7 @@ featured_image = '/images/apple_pie_cake_KV.jpg'
   yield = 'Serves 10-12 slices'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/apple_pie_cake_KV.jpg'
+  image = '/images/apple_pie_cake_KV.webp'
   ingredients = [
     '* For the pastry: *',
     '350g all-purpose flour',
@@ -69,10 +69,10 @@ This rich, buttery and fruity dessert may not be for everyone. On any other day,
 
 
 
-{{< figure src="/images/classic_apple_pie_KV.jpg">}}
+{{< figure src="/images/classic_apple_pie_KV.webp">}}
 
 
-{{< figure src="/images/apple_pie_slice_KV.jpg">}}
+{{< figure src="/images/apple_pie_slice_KV.webp">}}
 
 
-{{< figure src="/images/classic_apple_pie_slice_KV.jpg">}}
+{{< figure src="/images/classic_apple_pie_slice_KV.webp">}}

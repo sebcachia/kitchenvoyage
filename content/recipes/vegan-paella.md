@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['chickpea', 'cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'paella', 'recipe', 'rice', 'risotto', 'Spanish', 'vegan', 'vegetables', 'vegetarian', 'weeknight']
 aliases = ['/2017/10/04/vegan-paella']
-featured_image = '/images/vegpaella1.jpg'
+featured_image = '/images/vegpaella1.webp'
 
 [recipe]
   name = 'Vegan Paella'
@@ -13,7 +13,7 @@ featured_image = '/images/vegpaella1.jpg'
   yield = 'Serves 2'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/vegpaella1.jpg'
+  image = '/images/vegpaella1.webp'
   ingredients = [
     '150g risotto rice',
     '250g vegetable stock, hot',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'gnocchi', 'healthy', 'lunch', 'pasta', 'recipe', 'vegetarian']
 aliases = ['/2019/02/13/potato-gnocchi-with-creamy-mushroom-sauce']
-featured_image = '/images/mushroom_goat-cheese_gnocchi.jpg'
+featured_image = '/images/mushroom_goat-cheese_gnocchi.webp'
 
 [recipe]
   name = 'Potato Gnocchi with Creamy Mushroom Sauce'
@@ -13,7 +13,7 @@ featured_image = '/images/mushroom_goat-cheese_gnocchi.jpg'
   yield = 'Serves 2'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/mushroom_goat-cheese_gnocchi.jpg'
+  image = '/images/mushroom_goat-cheese_gnocchi.webp'
   ingredients = [
     '500g potato gnocchi',
     '300g sliced mushrooms',
@@ -63,4 +63,4 @@ This is a healthy and easy recipe that can be prepared in a very short time, if 
 
 
 
-{{< figure src="/images/gnocchi-mushroom-goat-cheese.jpg">}}
+{{< figure src="/images/gnocchi-mushroom-goat-cheese.webp">}}

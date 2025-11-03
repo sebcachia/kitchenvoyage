@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['blueberries', 'breakfast', 'cupcakes', 'delicious', 'dessert', 'food', 'healthy', 'homemade', 'lemon', 'muffins', 'oats', 'recipe', 'sweets']
 aliases = ['/2020/02/13/blueberry-oat-muffins']
-featured_image = '/images/Blueberry_Oatmeal_Muffins_KV-scaled.jpg'
+featured_image = '/images/Blueberry_Oatmeal_Muffins_KV-scaled.webp'
 
 [recipe]
   name = 'Blueberry Oat Muffins'
@@ -13,7 +13,7 @@ featured_image = '/images/Blueberry_Oatmeal_Muffins_KV-scaled.jpg'
   yield = 'Serves 12-14 muffins'
   totalTime = '40mins'
   difficulty = 'easy'
-  image = '/images/Blueberry_Oatmeal_Muffins_KV-scaled.jpg'
+  image = '/images/Blueberry_Oatmeal_Muffins_KV-scaled.webp'
   ingredients = [
     '100g wholegrain rolled oats',
     '250g buttermilk',
@@ -63,7 +63,7 @@ The blueberry oat muffins are ideal as breakfast on the go or as a snack. They p
 
 
 
-{{< figure src="/images/Blueberry_Oat_Muffins_KV.jpg">}}
+{{< figure src="/images/Blueberry_Oat_Muffins_KV.webp">}}
 
 
-{{< figure src="/images/Blueberry_Oat_Muffin_KV.jpg">}}
+{{< figure src="/images/Blueberry_Oat_Muffin_KV.webp">}}

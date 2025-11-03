@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'mushrooms', 'pastry', 'pie', 'recipe', 'vegetables', 'vegetarian']
 aliases = ['/2020/03/14/creamy-mushroom-pie']
-featured_image = '/images/mushroom_pie_creamy_KV-scaled.jpg'
+featured_image = '/images/mushroom_pie_creamy_KV-scaled.webp'
 
 [recipe]
   name = 'Creamy Mushroom Soup'
@@ -13,7 +13,7 @@ featured_image = '/images/mushroom_pie_creamy_KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/mushroom_pie_creamy_KV-scaled.jpg'
+  image = '/images/mushroom_pie_creamy_KV-scaled.webp'
   ingredients = [
     '*For the pastry:*',
     '240g buttermilk',
@@ -92,13 +92,13 @@ This kind of filling is great for a family-sized pie and also works great in sma
 
 
 
-{{< figure src="/images/mushroom_pie_veggies_KV.jpg">}}
+{{< figure src="/images/mushroom_pie_veggies_KV.webp">}}
 
 
-{{< figure src="/images/mushroom_pie_filling_KV.jpg">}}
+{{< figure src="/images/mushroom_pie_filling_KV.webp">}}
 
 
-{{< figure src="/images/mushroom_pie_slice_KV.jpg">}}
+{{< figure src="/images/mushroom_pie_slice_KV.webp">}}
 
 
-{{< figure src="/images/creamy_mushroom_pie_KV.jpg">}}
+{{< figure src="/images/creamy_mushroom_pie_KV.webp">}}

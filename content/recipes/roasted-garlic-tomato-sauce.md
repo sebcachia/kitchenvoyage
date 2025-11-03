@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'Italian', 'lunch', 'pasta', 'recipe', 'tomatoes', 'vegan', 'vegetarian', 'weeknight']
 aliases = ['/2019/03/07/roasted-garlic-tomato-sauce']
-featured_image = '/images/roasted_garlic_tomato_sauce_1.jpg'
+featured_image = '/images/roasted_garlic_tomato_sauce_1.webp'
 
 [recipe]
   name = 'Roasted Garlic Tomato Sauce'
@@ -13,7 +13,7 @@ featured_image = '/images/roasted_garlic_tomato_sauce_1.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/roasted_garlic_tomato_sauce_1.jpg'
+  image = '/images/roasted_garlic_tomato_sauce_1.webp'
   ingredients = [
     '6-8 garlic cloves',
     'Olive oil',
@@ -66,4 +66,4 @@ Let me know what you think. Enjoy! :D
 
 
 
-{{< figure src="/images/roasted_garlic_tomato_sauce.jpg">}}
+{{< figure src="/images/roasted_garlic_tomato_sauce.webp">}}

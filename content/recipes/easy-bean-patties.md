@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beans', 'burger', 'carrot', 'delicious', 'food', 'healthy', 'homemade', 'recipe', 'vegetarian']
 aliases = ['/2020/12/02/easy-bean-patties']
-featured_image = '/images/bean_patties_baked_KV-scaled.jpg'
+featured_image = '/images/bean_patties_baked_KV-scaled.webp'
 
 [recipe]
   name = 'Easy Bean Patties'
@@ -13,7 +13,7 @@ featured_image = '/images/bean_patties_baked_KV-scaled.jpg'
   yield = 'Serves 12 patties'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/bean_patties_baked_KV-scaled.jpg'
+  image = '/images/bean_patties_baked_KV-scaled.webp'
   ingredients = [
     '200g dried black beans*, soaked overnight',
     '1 large onions',
@@ -62,10 +62,10 @@ These bean patties are healthy, delicious and nutritious :) Beans are a great so
 
 
 
-{{< figure src="/images/bean_patties_KV-scaled.jpg">}}
+{{< figure src="/images/bean_patties_KV-scaled.webp">}}
 
 
-{{< figure src="/images/bean_patties_baked_KV.jpg">}}
+{{< figure src="/images/bean_patties_baked_KV.webp">}}
 
 
-{{< figure src="/images/bean_patties_burger_KV.jpg">}}
+{{< figure src="/images/bean_patties_burger_KV.webp">}}

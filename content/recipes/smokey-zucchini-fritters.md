@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'fritters', 'healthy', 'homemade', 'lunch', 'recipe', 'vegetarian', 'zucchini']
 aliases = ['/2018/07/18/smokey-zucchini-fritters']
-featured_image = '/images/smokey_zucchini_fritters.jpg'
+featured_image = '/images/smokey_zucchini_fritters.webp'
 
 [recipe]
   name = 'Smokey Zucchini Fritters'
@@ -13,7 +13,7 @@ featured_image = '/images/smokey_zucchini_fritters.jpg'
   yield = 'Serves 3-4'
   totalTime = '45 mins'
   difficulty = 'easy'
-  image = '/images/smokey_zucchini_fritters.jpg'
+  image = '/images/smokey_zucchini_fritters.webp'
   ingredients = [
     '*For the sauce:*',
     '4 tbsp natural plain yoghurt',

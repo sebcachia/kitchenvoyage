@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'featured', 'food', 'lunch', 'pie', 'recipe', 'shortcrust', 'tart', 'vegetarian']
 aliases = ['/2019/02/07/caramelised-onions-pear-and-stilton-cheese-tart']
-featured_image = '/images/caramelised-onion-pear-stilton-tart-KV.jpg'
+featured_image = '/images/caramelised-onion-pear-stilton-tart-KV.webp'
 
 [recipe]
   name = 'Caramelised Onions, Pear and Stilton Cheese Tart'
@@ -13,7 +13,7 @@ featured_image = '/images/caramelised-onion-pear-stilton-tart-KV.jpg'
   yield = 'Serves 6-8, as a starter'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/caramelised-onion-pear-stilton-tart-KV.jpg'
+  image = '/images/caramelised-onion-pear-stilton-tart-KV.webp'
   ingredients = [
     '*For the pastry:*',
     '300g plain flour',

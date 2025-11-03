@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cauliflower', 'cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'recipe', 'soup', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2019/04/11/creamy-cauliflower-soup']
-featured_image = '/images/creamy_cauliflower_soup.jpg'
+featured_image = '/images/creamy_cauliflower_soup.webp'
 
 [recipe]
   name = 'Creamy Cauliflower Soup'
@@ -13,7 +13,7 @@ featured_image = '/images/creamy_cauliflower_soup.jpg'
   yield = 'Serves 4'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/creamy_cauliflower_soup.jpg'
+  image = '/images/creamy_cauliflower_soup.webp'
   ingredients = [
     '2 tbsp olive oil',
     '1 medium cauliflower',
@@ -57,10 +57,10 @@ The cauliflower soup is ideal to serve as a starter during a big family dinner. 
 
 
 
-{{< figure src="/images/cauliflower-soup.jpg">}}
+{{< figure src="/images/cauliflower-soup.webp">}}
 
 
-{{< figure src="/images/cauliflower_soup.jpg">}}
+{{< figure src="/images/cauliflower_soup.webp">}}
 
 
-{{< figure src="/images/creamy-cauliflower-soup.jpg">}}
+{{< figure src="/images/creamy-cauliflower-soup.webp">}}

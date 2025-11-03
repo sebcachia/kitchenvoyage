@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['burger', 'chickpea', 'delicious', 'food', 'glutenfree', 'healthy', 'homemade', 'Indian', 'recipe', 'Summer', 'vegan', 'vegetarian']
 aliases = ['/2020/07/09/potato-038-chickpea-burgers']
-featured_image = '/images/potato_chickpea_vegan_burger_KV-scaled.jpg'
+featured_image = '/images/potato_chickpea_vegan_burger_KV-scaled.webp'
 
 [recipe]
   name = 'Potato and Chickpea Burgers'
@@ -13,7 +13,7 @@ featured_image = '/images/potato_chickpea_vegan_burger_KV-scaled.jpg'
   yield = 'Serves 8'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/potato_chickpea_vegan_burger_KV-scaled.jpg'
+  image = '/images/potato_chickpea_vegan_burger_KV-scaled.webp'
   ingredients = [
     '*For the patties:*',
     '475g potatoes, cooked',
@@ -60,7 +60,7 @@ The patties are gluten free and vegan friendly. 🌱 They are also absolutely de
 
 
 
-{{< figure src="/images/vegan_potato_chickpea_burger_KV.jpg">}}
+{{< figure src="/images/vegan_potato_chickpea_burger_KV.webp">}}
 
 
-{{< figure src="/images/chaana_chaat_potato_chickpea_vegan_burger_KV.jpg">}}
+{{< figure src="/images/chaana_chaat_potato_chickpea_vegan_burger_KV.webp">}}

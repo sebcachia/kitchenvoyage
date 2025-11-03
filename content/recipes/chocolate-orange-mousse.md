@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['chocolate', 'delicious', 'dessert', 'featured', 'food', 'homemade', 'no-bake', 'oranges', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2019/04/18/chocolate-orange-mousse']
-featured_image = '/images/mousse_orange_chocolate.jpg'
+featured_image = '/images/mousse_orange_chocolate.webp'
 
 [recipe]
   name = 'Chocolate Orange Mousse'
@@ -13,7 +13,7 @@ featured_image = '/images/mousse_orange_chocolate.jpg'
   yield = 'Serves 4'
   totalTime = '15mins'
   difficulty = 'easy'
-  image = '/images/mousse_orange_chocolate.jpg'
+  image = '/images/mousse_orange_chocolate.webp'
   ingredients = [
     '500g mascarpone cheese',
     '2 tbsp icing sugar',
@@ -46,7 +46,7 @@ You can decorate with the mousse with fresh berries, shaved chocolate, orange ze
 
 
 
-{{< figure src="/images/chocolate_orange_mousse.jpg">}}
+{{< figure src="/images/chocolate_orange_mousse.webp">}}
 
 
-{{< figure src="/images/mousse_chocolate_orange.jpg">}}
+{{< figure src="/images/mousse_chocolate_orange.webp">}}

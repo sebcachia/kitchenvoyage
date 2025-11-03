@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'cookies', 'delicious', 'food', 'homemade', 'oats', 'recipe', 'sweets', 'treats']
 aliases = ['/2017/06/08/oat-and-ginger-cookies']
-featured_image = '/images/oatandgingercookies.jpg'
+featured_image = '/images/oatandgingercookies.webp'
 
 [recipe]
   name = 'Oat and Ginger Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/oatandgingercookies.jpg'
   yield = 'Serves 16 cookies'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/oatandgingercookies.jpg'
+  image = '/images/oatandgingercookies.webp'
   ingredients = [
     '125g unsalted butter, melted',
     '150g soft dark brown sugar',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'homemade', 'Italian', 'pie', 'pizza', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2017/05/12/pizza-time']
-featured_image = '/images/veggiepizza1.jpg'
+featured_image = '/images/veggiepizza1.webp'
 
 [recipe]
   name = 'Pizza dough'
@@ -13,7 +13,7 @@ featured_image = '/images/veggiepizza1.jpg'
   yield = 'Serves 4'
   totalTime = '19-20hrs'
   difficulty = 'easy'
-  image = '/images/veggiepizza1.jpg'
+  image = '/images/veggiepizza1.webp'
   ingredients = [
     '500g plain flour',
     '350g water, lukewarm',

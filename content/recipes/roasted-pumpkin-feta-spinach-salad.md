@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['butternut', 'cooking', 'delicious', 'dinner', 'food', 'healthy', 'lunch', 'pumpkin', 'recipe', 'salad', 'spinach', 'vegan', 'vegetarian']
 aliases = ['/2018/09/14/roasted-pumpkin-feta-038-spinach-salad']
-featured_image = '/images/pumpkinspinachsalad.jpg'
+featured_image = '/images/pumpkinspinachsalad.webp'
 
 [recipe]
   name = 'Roasted Pumpkin, Feta and Spinach Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/pumpkinspinachsalad.jpg'
   yield = 'Serves 2-3, as main'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/pumpkinspinachsalad.jpg'
+  image = '/images/pumpkinspinachsalad.webp'
   ingredients = [
     '500g pumpkin',
     '2 tbsp olive oil',

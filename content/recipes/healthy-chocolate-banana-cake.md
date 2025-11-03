@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['banana', 'cake', 'chocolate', 'delicious', 'dessert', 'food', 'healthy', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2018/06/20/healthy-chocolate-banana-cake']
-featured_image = '/images/chococake.jpg'
+featured_image = '/images/chococake.webp'
 
 [recipe]
   name = 'Healthy Chocolate Cake'
@@ -13,7 +13,7 @@ featured_image = '/images/chococake.jpg'
   yield = 'Serves 12 slices'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/chococake.jpg'
+  image = '/images/chococake.webp'
   ingredients = [
     '3 ripe bananas',
     '125g natural yoghurt',

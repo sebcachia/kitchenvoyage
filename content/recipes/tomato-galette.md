@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'oats', 'pastry', 'picnic', 'pie', 'recipe', 'Summer', 'tomatoes', 'vegetarian']
 aliases = ['/2019/05/24/tomato-galette']
-featured_image = '/images/fetacheese_tomato_galette.jpg'
+featured_image = '/images/fetacheese_tomato_galette.webp'
 
 [recipe]
   name = 'Tomato Galette'
@@ -13,7 +13,7 @@ featured_image = '/images/fetacheese_tomato_galette.jpg'
   yield = 'Serves 2, as a main'
   totalTime = '45 mins'
   difficulty = 'easy'
-  image = '/images/fetacheese_tomato_galette.jpg'
+  image = '/images/fetacheese_tomato_galette.webp'
   ingredients = [
     '*For the pastry crust:*',
     '50g rolled oats',
@@ -51,7 +51,7 @@ featured_image = '/images/fetacheese_tomato_galette.jpg'
 You know Summer is very close by when you start noticing a variety of tomatoes at the local farmers market. This is what happened last weekend :) At that instant I knew that I had to get my hands on some of them to prepare a delicious summer-and-sunshine-on-a-plate (aka tomato) galette. 
 
 
-{{< figure src="/images/tomatoes_KV.jpg?fit=1000%2C1000">}}
+{{< figure src="/images/tomatoes_KV.webp?fit=1000%2C1000">}}
 
 
 This is a simple recipe made with fresh ingredients. It is ideal for picnics or as a starter. I have also served it on several occasions as a midweek light dinner.
@@ -73,7 +73,7 @@ Remember: Get hold of some beautiful tomatoes on your next trip to your local fa
 
 
 
-{{< figure src="/images/tomato_galette_KV.jpg?fit=1000%2C750">}}
+{{< figure src="/images/tomato_galette_KV.webp?fit=1000%2C750">}}
 
 
-{{< figure src="/images/tomato_fetacheese_galette.jpg">}}
+{{< figure src="/images/tomato_fetacheese_galette.webp">}}

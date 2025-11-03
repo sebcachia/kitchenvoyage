@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beans', 'butternut', 'corn', 'dinner', 'food', 'glutenfree', 'healthy', 'lasagna', 'mexican', 'pumpkin', 'recipe', 'vegetables', 'vegetarian']
 aliases = ['/2020/01/31/mexican-lasagna']
-featured_image = '/images/Mexican_Lasagna_Serving_KV-scaled.jpg'
+featured_image = '/images/Mexican_Lasagna_Serving_KV-scaled.webp'
 
 [recipe]
   name = 'Mexican Lasagna'
@@ -13,7 +13,7 @@ featured_image = '/images/Mexican_Lasagna_Serving_KV-scaled.jpg'
   yield = 'Serves 4-6'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/Mexican_Lasagna_Serving_KV-scaled.jpg'
+  image = '/images/Mexican_Lasagna_Serving_KV-scaled.webp'
   ingredients = [
     '750g butternut squash, peeled and cubed',
     '6 tbsp olive oil',
@@ -69,10 +69,10 @@ This recipe is very easy to prepare and can also be prepared in advance. After b
 
 
 
-{{< figure src="/images/Mexican_Lasagna_Veggies_KV.jpg">}}
+{{< figure src="/images/Mexican_Lasagna_Veggies_KV.webp">}}
 
 
-{{< figure src="/images/Mexican_Lasagna_Dish_KV.jpg">}}
+{{< figure src="/images/Mexican_Lasagna_Dish_KV.webp">}}
 
 
-{{< figure src="/images/Mexican_Lasagna_Serving_KV.jpg">}}
+{{< figure src="/images/Mexican_Lasagna_Serving_KV.webp">}}

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['buns', 'burger', 'delicious', 'dinner', 'food', 'glutenfree', 'healthy', 'lentils', 'recipe', 'vegetarian']
 aliases = ['/2020/02/07/spicy-lentil-burgers']
-featured_image = '/images/Spicy_Lentil_Burger_Serve_KV-scaled.jpg'
+featured_image = '/images/Spicy_Lentil_Burger_Serve_KV-scaled.webp'
 
 [recipe]
   name = 'Spicy Lentil Burgers'
@@ -13,7 +13,7 @@ featured_image = '/images/Spicy_Lentil_Burger_Serve_KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/Spicy_Lentil_Burger_Serve_KV-scaled.jpg'
+  image = '/images/Spicy_Lentil_Burger_Serve_KV-scaled.webp'
   ingredients = [
     '*For the patties:*',
     '200g dried beluga lentils',
@@ -77,10 +77,10 @@ The patties themselves are gluten-free as I opted for chickpea flour to help com
 
 
 
-{{< figure src="/images/Lentil_Mixture_Burgers_KV.jpg">}}
+{{< figure src="/images/Lentil_Mixture_Burgers_KV.webp">}}
 
 
-{{< figure src="/images/Spicy_Lentil_Burgers_KV.jpg">}}
+{{< figure src="/images/Spicy_Lentil_Burgers_KV.webp">}}
 
 
-{{< figure src="/images/Spicy_Lentil_Burger_Bun_KV.jpg">}}
+{{< figure src="/images/Spicy_Lentil_Burger_Bun_KV.webp">}}

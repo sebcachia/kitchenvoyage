@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['burger', 'delicious', 'food', 'glutenfree', 'homemade', 'recipe', 'seaweed', 'teriyaki', 'vegan', 'vegetarian']
 aliases = ['/2019/08/16/vegan-seaweed-burger']
-featured_image = '/images/vegan_gf_seaweed_burger_KV.jpg'
+featured_image = '/images/vegan_gf_seaweed_burger_KV.webp'
 
 [recipe]
   name = 'Vegan Seaweed Burger'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_gf_seaweed_burger_KV.jpg'
   yield = 'Serves 6'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/vegan_gf_seaweed_burger_KV.jpg'
+  image = '/images/vegan_gf_seaweed_burger_KV.webp'
   ingredients = [
     '*For the kombu:*',
     '2 sheets kombu',
@@ -69,7 +69,7 @@ I have used my [burger bun recipe](/recipes/homemade-burger-buns/)) to serve the
 
 
 
-{{< figure src="/images/seaweed_burger_vegan_gf_KV.jpg">}}
+{{< figure src="/images/seaweed_burger_vegan_gf_KV.webp">}}
 
 
-{{< figure src="/images/vegan_seaweed_burger_gf_KV.jpg">}}
+{{< figure src="/images/vegan_seaweed_burger_gf_KV.webp">}}

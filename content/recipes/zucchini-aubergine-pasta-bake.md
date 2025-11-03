@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'lunch', 'pasta', 'picnic', 'recipe', 'vegetables', 'vegetarian', 'zucchini']
 aliases = ['/2018/09/22/zucchini-038-aubergine-pasta-bake']
-featured_image = '/images/pasta_bake.jpg'
+featured_image = '/images/pasta_bake.webp'
 
 [recipe]
   name = 'Zucchini and Aubergine Pasta Bake'
@@ -13,7 +13,7 @@ featured_image = '/images/pasta_bake.jpg'
   yield = 'Serves 4-6'
   totalTime = '2hrs 30 mins'
   difficulty = 'easy'
-  image = '/images/pasta_bake.jpg'
+  image = '/images/pasta_bake.webp'
   ingredients = [
     '250g fresh lasagna sheets, torn into large pieces',
     '1 small aubergine, thinly sliced',

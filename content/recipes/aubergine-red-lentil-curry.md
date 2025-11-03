@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'curry', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'Indian', 'lentils', 'recipe', 'rice', 'vegan', 'vegetarian']
 aliases = ['/2019/09/05/aubergine-038-red-lentil-curry']
-featured_image = '/images/aubergine_lentil_curry_vegan_KV.jpg'
+featured_image = '/images/aubergine_lentil_curry_vegan_KV.webp'
 
 [recipe]
   name = 'Aubergine and Red Lentil Curry'
@@ -13,7 +13,7 @@ featured_image = '/images/aubergine_lentil_curry_vegan_KV.jpg'
   yield = 'Serves 2-4'
   totalTime = '50mins'
   difficulty = 'easy'
-  image = '/images/aubergine_lentil_curry_vegan_KV.jpg'
+  image = '/images/aubergine_lentil_curry_vegan_KV.webp'
   ingredients = [
     '1 large onion',
     '1 inch-piece ginger',
@@ -67,4 +67,4 @@ A curry dish will not be complete without some homemade naan bread. While the cu
 
 
 
-{{< figure src="/images/vegan_aubergine_lentil_curry_KV.jpg">}}
+{{< figure src="/images/vegan_aubergine_lentil_curry_KV.webp">}}

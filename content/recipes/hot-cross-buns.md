@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['buns', 'delicious', 'Easter', 'food', 'hot cross buns', 'recipe', 'sweets', 'traditional', 'treats']
 aliases = ['/2020/04/11/hot-cross-buns']
-featured_image = '/images/hot_cross_buns_KV-scaled.jpg'
+featured_image = '/images/hot_cross_buns_KV-scaled.webp'
 
 [recipe]
   name = 'Hot Cross Buns'
@@ -13,7 +13,7 @@ featured_image = '/images/hot_cross_buns_KV-scaled.jpg'
   yield = 'Serves 6'
   totalTime = '3hrs (incl. 2hr 30mins of proofing)'
   difficulty = 'easy'
-  image = '/images/hot_cross_buns_KV-scaled.jpg'
+  image = '/images/hot_cross_buns_KV-scaled.webp'
   ingredients = [
     '*For the buns:*',
     '150g milk',
@@ -69,4 +69,4 @@ The hot cross buns are best served warm, toasted with a slather of butter and/or
 
 
 
-{{< figure src="/images/easter_hot_cross_buns_KV.jpg">}}
+{{< figure src="/images/easter_hot_cross_buns_KV.webp">}}

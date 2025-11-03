@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['Autumn', 'cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lunch', 'recipe', 'salad', 'vegan', 'vegetables', 'vegetarian', 'weeknight']
 aliases = ['/2017/09/27/warm-autumn-salad']
-featured_image = '/images/WarmAutumnSalad1.jpg'
+featured_image = '/images/WarmAutumnSalad1.webp'
 
 [recipe]
   name = 'Warm Autumn Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/WarmAutumnSalad1.jpg'
   yield = 'Serves 2'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/WarmAutumnSalad1.jpg'
+  image = '/images/WarmAutumnSalad1.webp'
   ingredients = [
     '1 red onion',
     '1 beetroot',

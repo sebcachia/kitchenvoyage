@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'food', 'healthy', 'homemade', 'Indian', 'lunch', 'recipe', 'salad', 'Summer', 'vegan', 'vegetarian']
 aliases = ['/2019/07/04/indian-summer-salad']
-featured_image = '/images/bhel_puri_chaat_indian_KV.jpg'
+featured_image = '/images/bhel_puri_chaat_indian_KV.webp'
 
 [recipe]
   name = 'Indian Summer Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/bhel_puri_chaat_indian_KV.jpg'
   yield = 'Serves 2'
   totalTime = '10 mins'
   difficulty = 'easy'
-  image = '/images/bhel_puri_chaat_indian_KV.jpg'
+  image = '/images/bhel_puri_chaat_indian_KV.webp'
   ingredients = [
     '40g puffed rice',
     '40g&nbsp;sev',
@@ -60,4 +60,4 @@ For my dish, I have decided to use a mixture of white and brown puffed rice. How
 
 
 
-{{< figure src="/images/bhel_puri_chaat_indian_salad_KV.jpg">}}
+{{< figure src="/images/bhel_puri_chaat_indian_salad_KV.webp">}}

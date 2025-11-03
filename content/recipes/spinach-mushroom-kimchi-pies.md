@@ -5,12 +5,12 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'homemade', 'kimchi', 'Korean', 'lunch', 'picnic', 'pie', 'recipe', 'spinach']
 aliases = ['/2017/04/26/spinach-mushroom-038-kimchi-pies']
-featured_image = '/images/kimchi.jpg'
+featured_image = '/images/kimchi.webp'
 
 [recipe]
   name = 'Simple Homemade Kimchi'
   description = 'A simple recipe to make your own kimchi.'
-  image = '/images/kimchi.jpg'
+  image = '/images/kimchi.webp'
   ingredients = [
     '1kg Chinese napa cabbage',
     '70g coarse sea salt',

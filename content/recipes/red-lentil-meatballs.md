@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lentils', 'lunch', 'meatballs', 'pasta', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2018/05/03/red-lentil-8216-meatballs']
-featured_image = '/images/redlentilmeatballs1.jpg'
+featured_image = '/images/redlentilmeatballs1.webp'
 
 [recipe]
   name = 'Red Lentil Meatballs'
@@ -13,7 +13,7 @@ featured_image = '/images/redlentilmeatballs1.jpg'
   yield = 'Serves 2'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/redlentilmeatballs1.jpg'
+  image = '/images/redlentilmeatballs1.webp'
   ingredients = [
     '200g dried red lentils',
     '475g vegetable stock',

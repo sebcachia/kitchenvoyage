@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['Chinese', 'delicious', 'food', 'homemade', 'mushrooms', 'recipe', 'sweet and savoury', 'tofu', 'vegan', 'vegetarian']
 aliases = ['/2020/07/01/vegan-sweet-038-sour-tofu']
-featured_image = '/images/vegan_tofu_sweet_sour_KV-scaled.jpg'
+featured_image = '/images/vegan_tofu_sweet_sour_KV-scaled.webp'
 
 [recipe]
   name = 'Vegan Sweet and Sour Tofu'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_tofu_sweet_sour_KV-scaled.jpg'
   yield = 'Serves 2-3'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/vegan_tofu_sweet_sour_KV-scaled.jpg'
+  image = '/images/vegan_tofu_sweet_sour_KV-scaled.webp'
   ingredients = [
     '300g firm tofu',
     '2 tbsp cornstarch',
@@ -59,4 +59,4 @@ This is a quick, simple and tasty dish that is ideal for a weeknight dinner. It 
 
 
 
-{{< figure src="/images/vegan_sweet_sour_tofu_KV-scaled.jpg">}}
+{{< figure src="/images/vegan_sweet_sour_tofu_KV-scaled.webp">}}

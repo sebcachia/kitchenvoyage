@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['casserole', 'cauliflower', 'delicious', 'dinner', 'food', 'healthy', 'recipe', 'vegetables', 'vegetarian']
 aliases = ['/2019/10/03/roasted-cauliflower-casserole']
-featured_image = '/images/roasted_cauliflower_casserole_serving_KV.jpg'
+featured_image = '/images/roasted_cauliflower_casserole_serving_KV.webp'
 
 [recipe]
   name = 'Roasted Cauliflower Casserole'
@@ -13,7 +13,7 @@ featured_image = '/images/roasted_cauliflower_casserole_serving_KV.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/roasted_cauliflower_casserole_serving_KV.jpg'
+  image = '/images/roasted_cauliflower_casserole_serving_KV.webp'
   ingredients = [
     '1 small head of cauliflower',
     '1 large carrot',
@@ -67,7 +67,7 @@ It is a perfect dish for this season and the upcoming cold days. Besides leaving
 
 
 
-{{< figure src="/images/roasted_cauliflower_casserole_KV.jpg">}}
+{{< figure src="/images/roasted_cauliflower_casserole_KV.webp">}}
 
 
-{{< figure src="/images/cauliflower_casserole_serving_KV.jpg">}}
+{{< figure src="/images/cauliflower_casserole_serving_KV.webp">}}

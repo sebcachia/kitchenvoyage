@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['bread', 'delicious', 'dinner', 'food', 'Georgia', 'Khachapuri', 'recipe']
 aliases = ['/2018/03/08/khachapuri-georgian-bread']
-featured_image = '/images/khachapuri.jpg'
+featured_image = '/images/khachapuri.webp'
 
 [recipe]
   name = 'Khachapuri- Georgian Bread'
@@ -13,7 +13,7 @@ featured_image = '/images/khachapuri.jpg'
   yield = 'Serves 4-6'
   totalTime = '2hrs'
   difficulty = 'easy'
-  image = '/images/khachapuri.jpg'
+  image = '/images/khachapuri.webp'
   ingredients = [
     '*For the dough:*',
     '250g plain flour',

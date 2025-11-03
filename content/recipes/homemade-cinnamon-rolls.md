@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['almonds', 'baking', 'breakfast', 'cinnamon', 'delicious', 'dessert', 'food', 'homemade', 'recipe', 'sweets', 'treats']
 aliases = ['/2017/03/29/homemade-cinnamon-rolls']
-featured_image = '/images/cinnamonrolls2.jpg'
+featured_image = '/images/cinnamonrolls2.webp'
 
 [recipe]
   name = 'Cinnamon Rolls'
@@ -13,7 +13,7 @@ featured_image = '/images/cinnamonrolls2.jpg'
   yield = 'Serves 6-8'
   totalTime = '2hrs'
   difficulty = 'easy'
-  image = '/images/cinnamonrolls2.jpg'
+  image = '/images/cinnamonrolls2.webp'
   ingredients = [
     '*For the dough*',
     '250g plain flour',

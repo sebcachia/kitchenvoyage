@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['breakfast', 'cookies', 'delicious', 'food', 'glutenfree', 'homemade', 'muesli', 'oats', 'recipe', 'sweets', 'treats', 'vegan', 'vegetarian']
 aliases = ['/2019/08/23/muesli-breakfast-cookies']
-featured_image = '/images/breakfast_cookies_muesli_KV.jpg'
+featured_image = '/images/breakfast_cookies_muesli_KV.webp'
 
 [recipe]
   name = 'Muesli Breakfast Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/breakfast_cookies_muesli_KV.jpg'
   yield = 'Serves 12-15 cookies'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/breakfast_cookies_muesli_KV.jpg'
+  image = '/images/breakfast_cookies_muesli_KV.webp'
   ingredients = [
     '2 ripe bananas',
     '100g rolled oats',
@@ -56,4 +56,4 @@ They are very easy to prepare... you just need one bowl, a spoon and a fork to m
 
 
 
-{{< figure src="/images/muesli_breakfast_cookies_KV.jpg">}}
+{{< figure src="/images/muesli_breakfast_cookies_KV.webp">}}

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Condiments', 'Food']
 tags = ['Asian', 'delicious', 'food', 'homemade', 'recipe', 'sauce', 'teriyaki', 'vegan', 'vegetarian']
 aliases = ['/2019/08/08/homemade-teriyaki-sauce']
-featured_image = '/images/homemade_teriyaki_sauce_KV.jpg'
+featured_image = '/images/homemade_teriyaki_sauce_KV.webp'
 
 [recipe]
   name = 'Homemade Teriyaki Sauce'
@@ -13,7 +13,7 @@ featured_image = '/images/homemade_teriyaki_sauce_KV.jpg'
   yield = 'Serves 1 jar'
   totalTime = '15mins'
   difficulty = 'easy'
-  image = '/images/homemade_teriyaki_sauce_KV.jpg'
+  image = '/images/homemade_teriyaki_sauce_KV.webp'
   ingredients = [
     '200ml water + 2 tbsp water',
     '60ml soy sauce',
@@ -47,7 +47,7 @@ This sauce is not only great for stir-fry dishes. It is also ideal to marinade c
 
 
 
-{{< figure src="/images/teriyaki_stir-fry_KV.jpg">}}Aubergine, Green beans and Tofu Stir-fry on a bed of Soba noodles, dressed with homemade teriyaki sauce
+{{< figure src="/images/teriyaki_stir-fry_KV.webp">}}Aubergine, Green beans and Tofu Stir-fry on a bed of Soba noodles, dressed with homemade teriyaki sauce
 
 
-{{< figure src="/images/teriyaki_burger_KV-1.jpg?fit=768%2C1024">}}Homemade beef patty, topped with cheese, pineapple slice and glazed with homemade teriyaki sauce
+{{< figure src="/images/teriyaki_burger_KV-1.webp?fit=768%2C1024">}}Homemade beef patty, topped with cheese, pineapple slice and glazed with homemade teriyaki sauce

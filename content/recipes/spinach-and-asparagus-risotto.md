@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['asparagus', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'Italian', 'lunch', 'recipe', 'rice', 'risotto', 'spinach', 'Spring', 'vegetables', 'vegetarian']
 aliases = ['/2017/04/05/spinach-and-asparagus-risotto']
-featured_image = '/images/spinachasparagus_risotto.jpg'
+featured_image = '/images/spinachasparagus_risotto.webp'
 
 [recipe]
   name = 'Spinach and Asparagus Risotto'
@@ -13,7 +13,7 @@ featured_image = '/images/spinachasparagus_risotto.jpg'
   yield = 'Serves 2'
   totalTime = '1hr 30mins'
   difficulty = 'easy'
-  image = '/images/spinachasparagus_risotto.jpg'
+  image = '/images/spinachasparagus_risotto.webp'
   ingredients = [
     '2 tbsp olive oil',
     '1 large onion',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beans', 'cooking', 'corn', 'delicious', 'dinner', 'food', 'healthy', 'lentils', 'lunch', 'recipe', 'Texmex', 'vegan', 'vegetarian']
 aliases = ['/2019/01/24/vegan-lentil-038-bean-chili']
-featured_image = '/images/lentil_bean_chili_plate.jpg'
+featured_image = '/images/lentil_bean_chili_plate.webp'
 
 [recipe]
   name = 'Vegan Lentil and Bean Chili'
@@ -13,7 +13,7 @@ featured_image = '/images/lentil_bean_chili_plate.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/lentil_bean_chili_plate.jpg'
+  image = '/images/lentil_bean_chili_plate.webp'
   ingredients = [
     '⦁    100g green lentils ⦁    2 tbsp olive oil ⦁    1 large onion, diced ⦁    1 carrot, diced ⦁    2 garlic cloves, finely chopped ⦁    2 bay leaves ⦁    1 tsp dried oregano ⦁    1 tbsp tomato paste ⦁    1 tbsp paprika ⦁    1/2 tsp smoked chipotle ⦁    400g chopped tomatoes ⦁    300ml vegetable stock ⦁    250g kidney beans ⦁    120g sweet corn ⦁    Salt and pepper, to taste'
   ]
@@ -43,7 +43,7 @@ You can serve this dish with some fresh avocados, sour cream, rice, tortilla wra
 
 
 
-{{< figure src="/images/lentil_bean_chili.jpg">}}
+{{< figure src="/images/lentil_bean_chili.webp">}}
 
 
-{{< figure src="/images/lentil_bean_chili_rice.jpg">}}
+{{< figure src="/images/lentil_bean_chili_rice.webp">}}

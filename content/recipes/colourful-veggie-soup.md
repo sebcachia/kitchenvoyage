@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'healthy', 'lunch', 'recipe', 'soup', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2019/02/01/colourful-veggie-soup']
-featured_image = '/images/colourful_veggie_soup_KV.jpg'
+featured_image = '/images/colourful_veggie_soup_KV.webp'
 
 [recipe]
   name = 'Colourful Veggie Soup'
@@ -13,7 +13,7 @@ featured_image = '/images/colourful_veggie_soup_KV.jpg'
   yield = 'Serves 2-4'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/colourful_veggie_soup_KV.jpg'
+  image = '/images/colourful_veggie_soup_KV.webp'
   ingredients = [
     '2 tbsp olive oil',
     '1 onion, sliced',

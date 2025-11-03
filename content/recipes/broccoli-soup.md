@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['broccoli', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lunch', 'recipe', 'simple', 'soup', 'vegan', 'vegetables', 'vegetarian', 'weeknight']
 aliases = ['/2017/12/13/broccoli-soup']
-featured_image = '/images/broccolisoup.jpg'
+featured_image = '/images/broccolisoup.webp'
 
 [recipe]
   name = 'Vegan Broccoli Soup'
@@ -13,7 +13,7 @@ featured_image = '/images/broccolisoup.jpg'
   yield = 'Serves 4'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/broccolisoup.jpg'
+  image = '/images/broccolisoup.webp'
   ingredients = [
     '1 large head of broccoli',
     '4 potatoes',

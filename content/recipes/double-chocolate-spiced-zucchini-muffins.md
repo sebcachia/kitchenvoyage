@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'chocolate', 'cupcakes', 'delicious', 'dessert', 'food', 'homemade', 'Indian', 'muffins', 'recipe', 'sweets', 'treats', 'vegan', 'zucchini']
 aliases = ['/2017/07/27/double-chocolate-spiced-zucchini-muffins']
-featured_image = '/images/chocozucchini-muffins1.jpg'
+featured_image = '/images/chocozucchini-muffins1.webp'
 
 [recipe]
   name = 'Double Chocolate Spiced Zucchini Muffins'
@@ -13,7 +13,7 @@ featured_image = '/images/chocozucchini-muffins1.jpg'
   yield = 'Serves 12'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/chocozucchini-muffins1.jpg'
+  image = '/images/chocozucchini-muffins1.webp'
   ingredients = [
     '155g wholemeal flour',
     '30g unsweetened cocoa powder',

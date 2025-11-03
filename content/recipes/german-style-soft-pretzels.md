@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['baking', 'Bavaria', 'Bavarian food', 'Bayern', 'bread', 'breakfast', 'cooking', 'delicious', 'dinner', 'food', 'German food', 'Germany', 'homemade', 'pretzels', 'recipe']
 aliases = ['/2017/08/03/german-style-soft-pretzels']
-featured_image = '/images/pretzels_done.jpg'
+featured_image = '/images/pretzels_done.webp'
 
 [recipe]
   name = 'German Soft Pretzels'
@@ -13,7 +13,7 @@ featured_image = '/images/pretzels_done.jpg'
   yield = 'Serves 4'
   totalTime = '6hrs'
   difficulty = 'medium'
-  image = '/images/pretzels_done.jpg'
+  image = '/images/pretzels_done.webp'
   ingredients = [
     '*For the dough*',
     '250g plain flour',

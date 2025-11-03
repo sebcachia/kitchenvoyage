@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['carrot', 'chickpea', 'delicious', 'food', 'healthy', 'lunch', 'recipe', 'salad', 'Summer', 'vegan', 'vegetarian']
 aliases = ['/2019/09/12/carrot-chickpea-038-tahini-salad']
-featured_image = '/images/carrot_roasted_chickpea_salad_KV.jpg'
+featured_image = '/images/carrot_roasted_chickpea_salad_KV.webp'
 
 [recipe]
   name = 'Carrot and Chickpea Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/carrot_roasted_chickpea_salad_KV.jpg'
   yield = 'Serves 2-4'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/carrot_roasted_chickpea_salad_KV.jpg'
+  image = '/images/carrot_roasted_chickpea_salad_KV.webp'
   ingredients = [
     '*For the chickpeas:*',
     '400g can chickpeas',
@@ -63,4 +63,4 @@ It is super simple to prepare. It can be served on its own as a meal or as a sid
 
 
 
-{{< figure src="/images/carrot_roasted_chickpea_salad_KV.jpg">}}
+{{< figure src="/images/carrot_roasted_chickpea_salad_KV.webp">}}

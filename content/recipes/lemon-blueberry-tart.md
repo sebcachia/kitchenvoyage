@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['blueberries', 'delicious', 'dessert', 'food', 'lemon', 'no-bake', 'sweets', 'tart']
 aliases = ['/2019/07/11/lemon-038-blueberry-tart']
-featured_image = '/images/Blueberries_Lemon_Curd_Tart_KV.jpg'
+featured_image = '/images/Blueberries_Lemon_Curd_Tart_KV.webp'
 
 [recipe]
   name = 'Lemon and Blueberry Tart'
@@ -13,7 +13,7 @@ featured_image = '/images/Blueberries_Lemon_Curd_Tart_KV.jpg'
   yield = 'Serves 8-10 slices'
   totalTime = '3hrs'
   difficulty = 'easy'
-  image = '/images/Blueberries_Lemon_Curd_Tart_KV.jpg'
+  image = '/images/Blueberries_Lemon_Curd_Tart_KV.webp'
   ingredients = [
     'For the Lemon Curd:',
     '3 egg yolks &nbsp;&nbsp;',
@@ -72,4 +72,4 @@ I hope you try it out and enjoy it as much as we did! :D
 
 
 
-{{< figure src="/images/Lemon_Curd_Tart_KV.jpg">}}
+{{< figure src="/images/Lemon_Curd_Tart_KV.webp">}}

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'lunch', 'salad', 'sweet potatoes', 'vegan', 'vegetarian']
 aliases = ['/2018/08/02/sweet-potato-salad']
-featured_image = '/images/sweetpotatosalad1.jpg'
+featured_image = '/images/sweetpotatosalad1.webp'
 
 [recipe]
   name = 'Sweet Potato Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/sweetpotatosalad1.jpg'
   yield = 'Serves 3-4, as main'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/sweetpotatosalad1.jpg'
+  image = '/images/sweetpotatosalad1.webp'
   ingredients = [
     '2 medium sweet potatoes',
     '3 celery ribs, diced',

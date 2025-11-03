@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'fritters', 'healthy', 'homemade', 'lunch', 'recipe', 'vegetarian', 'zucchini']
 aliases = ['/2018/02/08/zucchini-038-feta-cheese-fritters']
-featured_image = '/images/zucchinifetafritters1.jpg'
+featured_image = '/images/zucchinifetafritters1.webp'
 
 [recipe]
   name = 'Zucchini and Feta Cheese Fritters'
@@ -13,7 +13,7 @@ featured_image = '/images/zucchinifetafritters1.jpg'
   yield = 'Serves 2'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/zucchinifetafritters1.jpg'
+  image = '/images/zucchinifetafritters1.webp'
   ingredients = [
     '1 large zucchini, coarsely grated',
     '200g feta cheese, crumbled',

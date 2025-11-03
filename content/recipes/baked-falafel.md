@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['chickpea', 'delicious', 'dinner', 'falafel', 'food', 'healthy', 'homemade', 'lunch', 'recipe', 'vegetarian']
 aliases = ['/2017/08/17/baked-falafel']
-featured_image = '/images/falafel1.jpg'
+featured_image = '/images/falafel1.webp'
 
 [recipe]
   name = 'Baked Falafel'
@@ -13,7 +13,7 @@ featured_image = '/images/falafel1.jpg'
   yield = 'Serves 8-10 pieces'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/falafel1.jpg'
+  image = '/images/falafel1.webp'
   ingredients = [
     '200g dried chickpeas',
     '6 garlic cloves',

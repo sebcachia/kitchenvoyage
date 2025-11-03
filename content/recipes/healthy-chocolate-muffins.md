@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'chocolate', 'cupcakes', 'delicious', 'dessert', 'food', 'healthy', 'muffins', 'recipe', 'sweets', 'treats', 'vegetarian']
 aliases = ['/2018/12/28/healthy-chocolate-muffins']
-featured_image = '/images/healthy-chocolate-muffins_KV.jpg'
+featured_image = '/images/healthy-chocolate-muffins_KV.webp'
 
 [recipe]
   name = 'Healthy Chocolate Muffins'
@@ -13,7 +13,7 @@ featured_image = '/images/healthy-chocolate-muffins_KV.jpg'
   yield = 'Serves 25 muffins'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/healthy-chocolate-muffins_KV.jpg'
+  image = '/images/healthy-chocolate-muffins_KV.webp'
   ingredients = [
     '120g wholemeal flour',
     '150g all purpose flour',

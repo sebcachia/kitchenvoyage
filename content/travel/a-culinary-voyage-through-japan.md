@@ -15,7 +15,7 @@ It has been a great experience to visit Japan as our first Asian country. It is 
 There are a lot of different places on my bucket list but I hope that one day I will have another opportunity to visit Japan again! :)
 Here are some of the culinary highlights from our Japanese stay 🇯🇵🇯🇵🇯🇵
 ***Tokyo:***
-{{< figure src="/images/Peach_goatcheese_galette_KV.jpg">}}
+{{< figure src="/images/Peach_goatcheese_galette_KV.webp">}}
 
 [caption id="attachment_5133" align="aligncenter" width="1000"] A ramen bowl at the popular Ichiran chain[/caption]
 [caption id="attachment_5132" align="aligncenter" width="1000"] A fluffy egg omelette at Tsukiji market[/caption]

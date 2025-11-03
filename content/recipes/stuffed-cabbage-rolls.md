@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cabbage', 'delicious', 'dinner', 'featured', 'food', 'healthy', 'Hungarian', 'recipe', 'vegetables']
 aliases = ['/2018/11/29/stuffed-cabbage-rolls']
-featured_image = '/images/stuffed_cabbage_rolls.jpg'
+featured_image = '/images/stuffed_cabbage_rolls.webp'
 
 [recipe]
   name = 'Stuffed Cabbage Rolls'
@@ -13,7 +13,7 @@ featured_image = '/images/stuffed_cabbage_rolls.jpg'
   yield = 'Serves 4'
   totalTime = '3hrs'
   difficulty = 'medium'
-  image = '/images/stuffed_cabbage_rolls.jpg'
+  image = '/images/stuffed_cabbage_rolls.webp'
   ingredients = [
     '8 whole cabbage leaves',
     '*For the filling:*',

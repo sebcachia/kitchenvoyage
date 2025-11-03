@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'chocolate', 'cookies', 'cranberries', 'delicious', 'food', 'homemade', 'oats', 'recipe', 'sweets', 'treats']
 aliases = ['/2017/07/19/chocolate-cranberry-cookies']
-featured_image = '/images/chococranberrycookies.jpg'
+featured_image = '/images/chococranberrycookies.webp'
 
 [recipe]
   name = 'Chocolate Cranberry Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/chococranberrycookies.jpg'
   yield = 'Serves 14 cookies'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/chococranberrycookies.jpg'
+  image = '/images/chococranberrycookies.webp'
   ingredients = [
     '100g all-purpose flour',
     '70g granulated sugar',

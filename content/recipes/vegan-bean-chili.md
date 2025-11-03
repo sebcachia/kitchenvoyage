@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['beans', 'delicious', 'dinner', 'food', 'healthy', 'mexican', 'recipe', 'Texmex', 'vegan', 'vegetarian']
 aliases = ['/2020/04/23/vegan-bean-chili']
-featured_image = '/images/vegan_bean_chili_KV-scaled.jpg'
+featured_image = '/images/vegan_bean_chili_KV-scaled.webp'
 
 [recipe]
   name = 'Vegan Bean Chili'
@@ -13,7 +13,7 @@ featured_image = '/images/vegan_bean_chili_KV-scaled.jpg'
   yield = 'Serves 4'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/vegan_bean_chili_KV-scaled.jpg'
+  image = '/images/vegan_bean_chili_KV-scaled.webp'
   ingredients = [
     '100g dried black beans, soaked overnight',
     '100g dried pinto beans, soaked overnight',
@@ -68,4 +68,4 @@ Like any other chili, this dish will taste better by time. So if you have time t
 
 
 
-{{< figure src="/images/vegan_bean_chili_recipe_KV.jpg">}}
+{{< figure src="/images/vegan_bean_chili_recipe_KV.webp">}}

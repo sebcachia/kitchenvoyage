@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['chickpea', 'cooking', 'curry', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'Indian', 'recipe', 'sweet potatoes', 'vegan', 'vegetarian']
 aliases = ['/2018/03/07/sweet-potato-038-chickpea-curry']
-featured_image = '/images/swtpotatochickpeacurry2.jpg'
+featured_image = '/images/swtpotatochickpeacurry2.webp'
 
 [recipe]
   name = 'Sweet Potato and Chickpea Curry'
@@ -13,7 +13,7 @@ featured_image = '/images/swtpotatochickpeacurry2.jpg'
   yield = 'Serves 4'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/swtpotatochickpeacurry2.jpg'
+  image = '/images/swtpotatochickpeacurry2.webp'
   ingredients = [
     '2 tbsp coconut oil',
     '1 yellow onion, diced',

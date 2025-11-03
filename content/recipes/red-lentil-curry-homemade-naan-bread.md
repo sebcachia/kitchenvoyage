@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['curry', 'delicious', 'dinner', 'food', 'healthy', 'Indian', 'lentils', 'recipe', 'rice', 'vegan', 'vegetarian']
 aliases = ['/2017/06/29/red-lentil-curry-038-homemade-naan-bread']
-featured_image = '/images/redlentilcurry.jpg'
+featured_image = '/images/redlentilcurry.webp'
 
 [recipe]
   name = 'Red Lentil Curry'
@@ -13,7 +13,7 @@ featured_image = '/images/redlentilcurry.jpg'
   yield = 'Serves 4'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/redlentilcurry.jpg'
+  image = '/images/redlentilcurry.webp'
   ingredients = [
     '200g dried red lentils',
     '400g vegetable stock (you can use water instead)',

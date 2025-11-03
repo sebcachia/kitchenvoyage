@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'lunch', 'ras el hanout', 'recipe', 'rice', 'vegan', 'vegetarian', 'weeknight']
 aliases = ['/2018/10/12/roasted-aubergine-with-spiced-rice']
-featured_image = '/images/aubergine_rice_apricot.jpg'
+featured_image = '/images/aubergine_rice_apricot.webp'
 
 [recipe]
   name = 'Roasted Aubergine with Spiced Wild Rice'
@@ -13,7 +13,7 @@ featured_image = '/images/aubergine_rice_apricot.jpg'
   yield = 'Serves 2'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/aubergine_rice_apricot.jpg'
+  image = '/images/aubergine_rice_apricot.webp'
   ingredients = [
     '***For the aubergine:***',
     '1 large aubergine',

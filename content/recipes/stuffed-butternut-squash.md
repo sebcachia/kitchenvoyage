@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['butternut', 'chickpea', 'delicious', 'dinner', 'food', 'healthy', 'pumpkin', 'recipe', 'simple', 'squash', 'vegan', 'vegetarian']
 aliases = ['/2018/06/07/stuffed-butternut-squash']
-featured_image = '/images/stuffedbutternut.jpg'
+featured_image = '/images/stuffedbutternut.webp'
 
 [recipe]
   name = 'Stuffed Butternut Squash'
@@ -13,7 +13,7 @@ featured_image = '/images/stuffedbutternut.jpg'
   yield = 'Serves 2'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/stuffedbutternut.jpg'
+  image = '/images/stuffedbutternut.webp'
   ingredients = [
     '1 butternut squash, medium',
     '4-6 tbsp olive oil',

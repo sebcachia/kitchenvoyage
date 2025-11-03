@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['almonds', 'delicious', 'dessert', 'food', 'glutenfree', 'homemade', 'no-added sugar', 'no-bake', 'recipe', 'sweets', 'treats', 'vegan', 'vegetarian']
 aliases = ['/2017/08/23/fudgy-chocolate-balls']
-featured_image = '/images/fudgychocballs.jpg'
+featured_image = '/images/fudgychocballs.webp'
 
 [recipe]
   name = 'Fudgy Chocolate Balls'
@@ -13,7 +13,7 @@ featured_image = '/images/fudgychocballs.jpg'
   yield = 'Serves 15'
   totalTime = '15mins'
   difficulty = 'easy'
-  image = '/images/fudgychocballs.jpg'
+  image = '/images/fudgychocballs.webp'
   ingredients = [
     '140g hazelnuts',
     '100g almonds',

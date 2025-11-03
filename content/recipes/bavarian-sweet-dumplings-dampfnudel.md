@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['Bavaria', 'Bavarian food', 'Bayern', 'Dampfnudel', 'delicious', 'dessert', 'dumplings', 'food', 'German food', 'Germany', 'homemade', 'recipe', 'sweets']
 aliases = ['/2017/03/09/bavarian-sweet-dumplings-dampfnudel']
-featured_image = '/images/dampfnudel.3.jpg'
+featured_image = '/images/dampfnudel.3.webp'
 
 [recipe]
   name = 'Dampfnudel - Bavarian Sweet Dumplings'
@@ -13,7 +13,7 @@ featured_image = '/images/dampfnudel.3.jpg'
   yield = 'Serves 4'
   totalTime = '2hr 30mins'
   difficulty = 'easy'
-  image = '/images/dampfnudel.3.jpg'
+  image = '/images/dampfnudel.3.webp'
   ingredients = [
     '*For the dumplings dough*',
     '250 g all-purpose flour',

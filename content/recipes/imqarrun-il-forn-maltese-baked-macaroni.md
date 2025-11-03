@@ -5,14 +5,14 @@ author = 'Marica'
 categories = ['Maltese Dishes', 'Maltese Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'Imqarrun', 'Macaroni', 'Malta', 'Maltese', 'pasta', 'recipe', 'Timpana', 'traditional']
 aliases = ['/2018/10/25/imqarrun-il-forn-maltese-baked-macaroni']
-featured_image = '/images/mqarrun_forn_portion.jpg'
+featured_image = '/images/mqarrun_forn_portion.webp'
 
 [recipe]
   name = 'Imqarrun il-Forn, Maltese Baked Macaroni'
   yield = 'Serves 8'
   totalTime = '2hrs'
   difficulty = 'easy'
-  image = '/images/mqarrun_forn_portion.jpg'
+  image = '/images/mqarrun_forn_portion.webp'
   ingredients = [
     '400g minced pork',
     '400g minced beef',

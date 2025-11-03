@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dip', 'food', 'healthy', 'homemade', 'lentils', 'lunch', 'recipe', 'tomatoes', 'vegan', 'vegetarian']
 aliases = ['/2017/10/12/red-lentil-dip']
-featured_image = '/images/RedLentilDip.jpg'
+featured_image = '/images/RedLentilDip.webp'
 
 [recipe]
   name = 'Red Lentil Dip'
@@ -13,7 +13,7 @@ featured_image = '/images/RedLentilDip.jpg'
   yield = 'Serves 2'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/RedLentilDip.jpg'
+  image = '/images/RedLentilDip.webp'
   ingredients = [
     '200g red lentils',
     '500g vegetable stock',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Food', 'Maltese Sweets', 'Sweets']
 tags = ['almonds', 'baking', 'cookies', 'delicious', 'dessert', 'food', 'homemade', 'Malta', 'Maltese', 'recipe', 'sweets', 'traditional', 'treats']
 aliases = ['/2018/10/28/gadam-tal-mejtin-maltese-almond-cookies']
-featured_image = '/images/ghadam_mejtin.jpg'
+featured_image = '/images/ghadam_mejtin.webp'
 
 [recipe]
   name = 'Għadam tal-Mejtin - Maltese Almond Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/ghadam_mejtin.jpg'
   yield = 'Serves 8 large bones'
   totalTime = '2hrs'
   difficulty = 'easy'
-  image = '/images/ghadam_mejtin.jpg'
+  image = '/images/ghadam_mejtin.webp'
   ingredients = [
     '*For the pastry:*',
     '400g plain flour',

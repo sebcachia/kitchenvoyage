@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['butternut', 'cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lunch', 'pumpkin', 'recipe', 'soup', 'squash', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2019/02/21/roasted-butternut-squash-soup']
-featured_image = '/images/roasted_butternut_squash_soup.jpg'
+featured_image = '/images/roasted_butternut_squash_soup.webp'
 
 [recipe]
   name = 'Roasted Butternut Squash Soup'
@@ -13,7 +13,7 @@ featured_image = '/images/roasted_butternut_squash_soup.jpg'
   yield = 'Serves 4'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/roasted_butternut_squash_soup.jpg'
+  image = '/images/roasted_butternut_squash_soup.webp'
   ingredients = [
     '1kg butternut squash, peeled',
     '2 carrots',

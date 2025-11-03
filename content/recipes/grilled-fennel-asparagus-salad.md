@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['asparagus', 'delicious', 'fennel', 'food', 'healthy', 'lunch', 'recipe', 'salad', 'Spring', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2018/04/19/grilled-fennel-038-asparagus-salad']
-featured_image = '/images/fennelasparagussalad.jpg'
+featured_image = '/images/fennelasparagussalad.webp'
 
 [recipe]
   name = 'Grilled Fennel and Asparagus Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/fennelasparagussalad.jpg'
   yield = 'Serves 2 (as a meal)'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/fennelasparagussalad.jpg'
+  image = '/images/fennelasparagussalad.webp'
   ingredients = [
     '*For the marinade/dressing:*',
     'Zest of 1 lemon',

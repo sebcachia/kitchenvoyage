@@ -5,14 +5,14 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'banana', 'bread', 'breakfast', 'cake', 'delicious', 'food', 'homemade', 'recipe', 'sweets', 'vegan', 'vegetarian']
 aliases = ['/2017/11/23/vegan-banana-bread']
-featured_image = '/images/BananaBread.jpg'
+featured_image = '/images/BananaBread.webp'
 
 [recipe]
   name = 'Vegan Banana Bread'
   description = 'Great for breakfast or as a snack!'
   totalTime = '1hr'
   difficulty = 'easy'
-  image = '/images/BananaBread.jpg'
+  image = '/images/BananaBread.webp'
   ingredients = [
     '400g ripe bananas (roughly 3 medium)',
     '4 tbsp maple syrup',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'homemade', 'lunch', 'recipe', 'rice', 'sushi', 'vegan', 'vegetables', 'vegetarian']
 aliases = ['/2017/05/25/vegetable-sushi-rolls-038-nigiri']
-featured_image = '/images/sushi.jpg'
+featured_image = '/images/sushi.webp'
 
 [recipe]
   name = 'Vegetable Sushi Rolls and Nigiri'
@@ -13,7 +13,7 @@ featured_image = '/images/sushi.jpg'
   yield = 'Serves 4'
   totalTime = '3hrs'
   difficulty = 'medium'
-  image = '/images/sushi.jpg'
+  image = '/images/sushi.webp'
   ingredients = [
     '*For the rice*',
     '500g sushi rice',

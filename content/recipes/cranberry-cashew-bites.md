@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['cashew nuts', 'cranberries', 'delicious', 'dessert', 'food', 'glutenfree', 'homemade', 'no-added sugar', 'no-bake', 'recipe', 'sweets', 'treats', 'vegan', 'vegetarian']
 aliases = ['/2017/08/09/cranberry-cashew-bites']
-featured_image = '/images/cranberrycashewbites2.jpg'
+featured_image = '/images/cranberrycashewbites2.webp'
 
 [recipe]
   name = 'Cranberry Cashew Bites'
@@ -13,7 +13,7 @@ featured_image = '/images/cranberrycashewbites2.jpg'
   yield = 'Serves 15'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/cranberrycashewbites2.jpg'
+  image = '/images/cranberrycashewbites2.webp'
   ingredients = [
     '140g cashew nuts',
     '50g rolled oats',

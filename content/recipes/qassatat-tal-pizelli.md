@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Dishes', 'Maltese Food', 'Savoury']
 tags = ['featured', 'food', 'Malta', 'Maltese', 'pastry', 'pie', 'qassatat', 'recipe', 'shortcrust', 'traditional']
 aliases = ['/2016/01/28/qassatat-tal-pizelli']
-featured_image = '/images/img_20160113_195501.jpg'
+featured_image = '/images/img_20160113_195501.webp'
 featured = true
 
 
@@ -14,7 +14,7 @@ featured = true
   description = 'A traditional Maltese street food recipe.'
   totalTime = '2hr 30mins'
   difficulty = 'medium'
-  image = '/images/img_20160113_195501.jpg'
+  image = '/images/img_20160113_195501.webp'
   ingredients = [
     '[Shortcrust pastry](http://www.kitchenvoyage.com/2016/01/27/shortcrust-pastry/" target="_blank" rel="noopener noreferrer)',
     '*For the Pea filling:*',

@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['baking', 'chocolate', 'cookies', 'food', 'glutenfree', 'healthy', 'homemade', 'oats', 'recipe', 'sweets', 'treats', 'vegan', 'vegetarian']
 aliases = ['/2020/05/07/gluten-free-chocolate-chip-cookies']
-featured_image = '/images/glutenfree_chocolate_chip_cookies_vegan-scaled.jpg'
+featured_image = '/images/glutenfree_chocolate_chip_cookies_vegan-scaled.webp'
 
 [recipe]
   name = 'Gluten-free Healthy Chocolate Chip Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/glutenfree_chocolate_chip_cookies_vegan-scaled.jpg'
   yield = 'Serves 8'
   totalTime = '15mins'
   difficulty = 'easy'
-  image = '/images/glutenfree_chocolate_chip_cookies_vegan-scaled.jpg'
+  image = '/images/glutenfree_chocolate_chip_cookies_vegan-scaled.webp'
   ingredients = [
     '150g oat flour&nbsp;',
     '1/4 tsp salt&nbsp;',
@@ -63,7 +63,7 @@ They are soooo delicious! I hope you give them a try because they are truly wort
 
 
 
-{{< figure src="/images/glutenfree_vegan_chocolate_chip_cookies-1.jpg">}}
+{{< figure src="/images/glutenfree_vegan_chocolate_chip_cookies-1.webp">}}
 
 
-{{< figure src="/images/vegan_glutenfree_chocolate_chip_cookies.jpg">}}
+{{< figure src="/images/vegan_glutenfree_chocolate_chip_cookies.webp">}}

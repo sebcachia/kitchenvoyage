@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['asparagus', 'casserole', 'delicious', 'dinner', 'food', 'lunch', 'mushrooms', 'recipe', 'rice', 'vegan', 'vegetables', 'vegetarian', 'weeknight']
 aliases = ['/2020/06/08/cheesy-asparagus-038-mushroom-rice-casserole']
-featured_image = '/images/asparagus_mushroom_rice_casserole_KV-scaled.jpg'
+featured_image = '/images/asparagus_mushroom_rice_casserole_KV-scaled.webp'
 
 [recipe]
   name = 'Cheesy Asparagus and Mushroom Rice Casserole'
@@ -13,7 +13,7 @@ featured_image = '/images/asparagus_mushroom_rice_casserole_KV-scaled.jpg'
   yield = 'Serves 2-3'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/asparagus_mushroom_rice_casserole_KV-scaled.jpg'
+  image = '/images/asparagus_mushroom_rice_casserole_KV-scaled.webp'
   ingredients = [
     '200g wholegrain rice',
     '500ml vegetable stock',
@@ -63,7 +63,7 @@ This recipe can be slightly modified to be vegan too. All you have to do is subs
 
 
 
-{{< figure src="/images/rice_asparagus_mushroom_casserole_KV.jpg">}}
+{{< figure src="/images/rice_asparagus_mushroom_casserole_KV.webp">}}
 
 
-{{< figure src="/images/asparagus_mushroom_rice_casserole_KV.jpg">}}
+{{< figure src="/images/asparagus_mushroom_rice_casserole_KV.webp">}}

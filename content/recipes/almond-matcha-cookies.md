@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['almonds', 'baking', 'cookies', 'dessert', 'food', 'matcha', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2018/12/07/almond-matcha-cookies']
-featured_image = '/images/matcha_almond_coconut_cookies.jpg'
+featured_image = '/images/matcha_almond_coconut_cookies.webp'
 
 [recipe]
   name = 'Almond Matcha Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/matcha_almond_coconut_cookies.jpg'
   yield = 'Serves 12 cookies'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/matcha_almond_coconut_cookies.jpg'
+  image = '/images/matcha_almond_coconut_cookies.webp'
   ingredients = [
     '125g plain flour',
     '50g ground almonds',

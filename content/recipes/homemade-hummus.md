@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['chickpea', 'delicious', 'dip', 'food', 'healthy', 'homemade', 'hummus', 'recipe', 'Summer', 'vegan', 'vegetarian']
 aliases = ['/2019/06/27/homemade-hummus']
-featured_image = '/images/classic_hummus_veg_KV.jpg'
+featured_image = '/images/classic_hummus_veg_KV.webp'
 
 [recipe]
   name = 'Homemade Classic Hummus'
@@ -13,7 +13,7 @@ featured_image = '/images/classic_hummus_veg_KV.jpg'
   yield = 'Serves 6, as a dip'
   totalTime = '10 mins'
   difficulty = 'easy'
-  image = '/images/classic_hummus_veg_KV.jpg'
+  image = '/images/classic_hummus_veg_KV.webp'
   ingredients = [
     '1 x400g can chickpeas, drained',
     '2 tbsp tahini paste',
@@ -57,4 +57,4 @@ And for those who said it is easier to make mashed potatoes... I suggest you giv
 
 
 
-{{< figure src="/images/classic_hummus_veg_KV.jpg">}}
+{{< figure src="/images/classic_hummus_veg_KV.webp">}}

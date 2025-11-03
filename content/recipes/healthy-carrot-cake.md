@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['cake', 'carrot', 'delicious', 'dessert', 'food', 'healthy', 'homemade', 'no-added sugar', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2018/04/04/healthy-carrot-cake']
-featured_image = '/images/carrotcake_slice.jpg'
+featured_image = '/images/carrotcake_slice.webp'
 
 [recipe]
   name = 'No-Added Sugar Healthy Carrot Cake'
@@ -13,7 +13,7 @@ featured_image = '/images/carrotcake_slice.jpg'
   yield = 'Serves 12 slices'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/carrotcake_slice.jpg'
+  image = '/images/carrotcake_slice.webp'
   ingredients = [
     '*For the cake:*',
     '190g pitted dates',

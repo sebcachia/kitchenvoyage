@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Maltese Food', 'Maltese Sweets', 'Sweets']
 tags = ['baking', 'cookies', 'delicious', 'dessert', 'featured', 'food', 'homemade', 'Malta', 'Maltese', 'Qagħaq', 'recipe', 'sesame', 'sweets', 'traditional', 'treats']
 aliases = ['/2019/04/25/qagaq-tal-gunglien-maltese-sesame-rings']
-featured_image = '/images/malta_qaghaq_tal-gunglien.jpg'
+featured_image = '/images/malta_qaghaq_tal-gunglien.webp'
 
 [recipe]
   name = 'Qagħaq tal-Ġunġlien - Maltese Sesame Rings'
@@ -13,7 +13,7 @@ featured_image = '/images/malta_qaghaq_tal-gunglien.jpg'
   yield = 'Serves Makes 20'
   totalTime = '60mins'
   difficulty = 'easy'
-  image = '/images/malta_qaghaq_tal-gunglien.jpg'
+  image = '/images/malta_qaghaq_tal-gunglien.webp'
   ingredients = [
     '300g plain flour',
     '200g wholemeal flour',
@@ -68,10 +68,10 @@ And here they are! I am really happy with my first attempt and will definitely m
 
 
 
-{{< figure src="/images/maltese_qaghaq_gunglien.jpg">}}
+{{< figure src="/images/maltese_qaghaq_gunglien.webp">}}
 
 
-{{< figure src="/images/malta_qaghaq_tal-gunglien.jpg">}}
+{{< figure src="/images/malta_qaghaq_tal-gunglien.webp">}}
 
 
-{{< figure src="/images/malta_qaghaq_gunglien.jpg">}}
+{{< figure src="/images/malta_qaghaq_gunglien.webp">}}

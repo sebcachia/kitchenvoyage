@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Condiments', 'Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'lentils', 'pancakes', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2018/02/13/lentils-pancakes']
-featured_image = '/images/lentilpancakes1.jpg'
+featured_image = '/images/lentilpancakes1.webp'
 
 [recipe]
   name = 'Spiced Lentils Pancake'
@@ -13,7 +13,7 @@ featured_image = '/images/lentilpancakes1.jpg'
   yield = 'Serves 2'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/lentilpancakes1.jpg'
+  image = '/images/lentilpancakes1.webp'
   ingredients = [
     '200g dried red lentils',
     '700g vegetable stock',

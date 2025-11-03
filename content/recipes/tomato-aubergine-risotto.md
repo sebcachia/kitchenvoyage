@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['aubergine', 'cooking', 'delicious', 'dinner', 'eggplant', 'food', 'healthy', 'homemade', 'Italian', 'recipe', 'rice', 'risotto', 'tomatoes', 'vegan', 'vegetarian']
 aliases = ['/2019/03/13/tomato-038-aubergine-risotto']
-featured_image = '/images/risotto_aubergine_tomato.jpg'
+featured_image = '/images/risotto_aubergine_tomato.webp'
 
 [recipe]
   name = 'Tomato and Aubergine Risotto'
@@ -13,7 +13,7 @@ featured_image = '/images/risotto_aubergine_tomato.jpg'
   yield = 'Serves 2, main course'
   totalTime = '1hr 30mins'
   difficulty = 'easy'
-  image = '/images/risotto_aubergine_tomato.jpg'
+  image = '/images/risotto_aubergine_tomato.webp'
   ingredients = [
     '1 large aubergine',
     '6 medium tomatoes',
@@ -64,4 +64,4 @@ It is a great dish to prepare for a larger amount of people, even with different
 
 
 
-{{< figure src="/images/risotto_tomato_aubergine.jpg">}}
+{{< figure src="/images/risotto_tomato_aubergine.webp">}}

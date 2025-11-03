@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Flora', 'Food']
 tags = ['banana', 'cookies', 'dog', 'dog food', 'Flora', 'food', 'furry friend', 'homemade', 'pet']
 aliases = ['/2018/05/10/banana-peanut-butter-dog-cookies']
-featured_image = '/images/bpbdogbiscuits3.jpg'
+featured_image = '/images/bpbdogbiscuits3.webp'
 
 [recipe]
   name = 'Banana Peanut Butter Dog Cookies'
@@ -13,7 +13,7 @@ featured_image = '/images/bpbdogbiscuits3.jpg'
   yield = 'Serves 24 cookies'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/bpbdogbiscuits3.jpg'
+  image = '/images/bpbdogbiscuits3.webp'
   ingredients = [
     '70g oat flour',
     '1 banana, mashed',

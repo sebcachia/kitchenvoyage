@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Condiments', 'Food']
 tags = ['basil', 'delicious', 'dinner', 'food', 'homemade', 'Italian', 'lunch', 'pasta', 'pesto', 'recipe', 'vegan', 'vegetarian']
 aliases = ['/2018/12/13/homemade-basil-pesto']
-featured_image = '/images/pesto_basil_pasta.jpg'
+featured_image = '/images/pesto_basil_pasta.webp'
 
 [recipe]
   name = 'Homemade Basil Pesto'
@@ -13,7 +13,7 @@ featured_image = '/images/pesto_basil_pasta.jpg'
   yield = 'Serves 3-4'
   totalTime = '10mins'
   difficulty = 'easy'
-  image = '/images/pesto_basil_pasta.jpg'
+  image = '/images/pesto_basil_pasta.webp'
   ingredients = [
     '2 big handfuls of fresh basil leaves',
     '50g pine nuts, toasted',

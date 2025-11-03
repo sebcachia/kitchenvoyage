@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['cooking', 'delicious', 'dinner', 'food', 'healthy', 'homemade', 'Korean', 'lentils', 'recipe', 'rice', 'simple', 'vegan', 'vegetarian']
 aliases = ['/2017/09/07/korean-bbq-lentils']
-featured_image = '/images/KoreanLentils2.jpg'
+featured_image = '/images/KoreanLentils2.webp'
 
 [recipe]
   name = 'Korean BBQ Lentils'
@@ -13,7 +13,7 @@ featured_image = '/images/KoreanLentils2.jpg'
   yield = 'Serves 2'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/KoreanLentils2.jpg'
+  image = '/images/KoreanLentils2.webp'
   ingredients = [
     '*For the sauce: *',
     '450ml water',

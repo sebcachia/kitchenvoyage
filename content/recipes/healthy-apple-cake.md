@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Sweets']
 tags = ['apple', 'breakfast', 'cake', 'delicious', 'dessert', 'food', 'healthy', 'homemade', 'recipe', 'sweets', 'vegetarian']
 aliases = ['/2018/02/21/healthy-apple-cake']
-featured_image = '/images/applecake.jpg'
+featured_image = '/images/applecake.webp'
 
 [recipe]
   name = 'Healthy Apple Cake'
@@ -13,7 +13,7 @@ featured_image = '/images/applecake.jpg'
   yield = 'Serves 10-12 slices'
   totalTime = '90mins'
   difficulty = 'easy'
-  image = '/images/applecake.jpg'
+  image = '/images/applecake.webp'
   ingredients = [
     '750g apples',
     '2 eggs',

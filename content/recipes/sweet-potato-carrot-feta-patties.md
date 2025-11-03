@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['carrot', 'delicious', 'dinner', 'food', 'fritters', 'glutenfree', 'healthy', 'picnic', 'recipe', 'sweet potatoes', 'vegetarian']
 aliases = ['/2020/10/28/sweet-potato-carrot-038-feta-patties']
-featured_image = '/images/SweetPotato_Carrot_Feta_Fritters_KV-scaled.jpg'
+featured_image = '/images/SweetPotato_Carrot_Feta_Fritters_KV-scaled.webp'
 
 [recipe]
   name = 'Sweet Potato, Carrot and Feta Patties'
@@ -13,7 +13,7 @@ featured_image = '/images/SweetPotato_Carrot_Feta_Fritters_KV-scaled.jpg'
   yield = 'Serves 25-30 patties'
   totalTime = '45mins'
   difficulty = 'easy'
-  image = '/images/SweetPotato_Carrot_Feta_Fritters_KV-scaled.jpg'
+  image = '/images/SweetPotato_Carrot_Feta_Fritters_KV-scaled.webp'
   ingredients = [
     '300g sweet potatoes',
     '500g carrots',
@@ -66,4 +66,4 @@ I like to serve them on a bed of rucola and baby spinach, with cherry tomatoes a
 
 
 
-{{< figure src="/images/SwtPotato_Carrot_Feta_Fritters_KV.jpg">}}
+{{< figure src="/images/SwtPotato_Carrot_Feta_Fritters_KV.webp">}}

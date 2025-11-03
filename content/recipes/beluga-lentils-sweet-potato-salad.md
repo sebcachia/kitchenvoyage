@@ -5,7 +5,7 @@ author = 'Marica'
 categories = ['Food', 'Savoury']
 tags = ['delicious', 'dinner', 'food', 'healthy', 'lentils', 'recipe', 'salad', 'sweet potatoes', 'vegan', 'vegetarian', 'weeknight']
 aliases = ['/2019/05/17/beluga-lentils-038-sweet-potato-salad']
-featured_image = '/images/sweet_potato_lentil_salad.jpg'
+featured_image = '/images/sweet_potato_lentil_salad.webp'
 
 [recipe]
   name = 'Beluga Lentils and Roasted Sweet Potato Salad'
@@ -13,7 +13,7 @@ featured_image = '/images/sweet_potato_lentil_salad.jpg'
   yield = 'Serves 2-3, as main'
   totalTime = '30mins'
   difficulty = 'easy'
-  image = '/images/sweet_potato_lentil_salad.jpg'
+  image = '/images/sweet_potato_lentil_salad.webp'
   ingredients = [
     '1 large sweet potato',
     '3 tbsp olive oil',
@@ -56,7 +56,7 @@ This salad can be served as a main dish, ideal for a weeknight meal, or as a sid
 
 
 
-{{< figure src="/images/beluga_lentil_sweet_potato_salad.jpg">}}
+{{< figure src="/images/beluga_lentil_sweet_potato_salad.webp">}}
 
 
-{{< figure src="/images/lentil_sweet_potato_salad.jpg">}}
+{{< figure src="/images/lentil_sweet_potato_salad.webp">}}
