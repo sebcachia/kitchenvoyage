@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <article class="container post-single">
+    <header class="post-header">
+      <p class="post-meta">
+        {{ $machine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $human := .Date | time.Format ":date_long" }}
+        <time datetime="{{ $machine }}">{{ $human }}</time>
+        &middot; {{ .ReadingTime }} minute read
+      </p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <p class="post-subtitle">{{ . }}</p>
+      {{ end }}
+    </header>
+    {{ with .Params.featured_image }}
+      {{ $image := . }}
+      {{ $alt := $.Params.featured_image_alt | default $.Title }}
+      <figure class="post-hero">
+        {{ if or (strings.HasPrefix $image "http://") (strings.HasPrefix $image "https://") }}
+          <img src="{{ $image }}" alt="{{ $alt }}">
+        {{ else }}
+          <img src="{{ $image | relURL }}" alt="{{ $alt }}">
+        {{ end }}
+      </figure>
+    {{ end }}
+    <div class="post-body">
+      {{ .Content }}
+    </div>
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  </article>
+{{ end }}

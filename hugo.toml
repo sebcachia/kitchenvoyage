@@ -1,0 +1,42 @@
+baseURL = 'https://kitchenvoyage.com/'
+languageCode = 'en-us'
+title = 'KitchenVoyage'
+theme = 'kitchenvoyage'
+
+[pagination]
+  pagerSize = 12
+
+[params]
+  highlightImageDefault = ''
+  logo = '/images/logo-black.png'
+  carouselInterval = 10
+  favicon = '/favicon.png'
+  tagline = 'Journalling my voyage exploring new foods and places.'
+
+
+  [params.author]
+    name = 'Marica Cachia'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 10
+
+[[menu.main]]
+  name = 'Recipes'
+  url = '/recipes/'
+  weight = 20
+
+[[menu.main]]
+  name = 'Travel'
+  url = '/travel/'
+  weight = 40
+
+[[menu.main]]
+  name = 'Maltese'
+  url = '/tags/maltese/'
+  weight = 60

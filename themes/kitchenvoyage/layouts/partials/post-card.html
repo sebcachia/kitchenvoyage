@@ -1,0 +1,30 @@
+{{- $page := . -}}
+{{- $image := or $page.Params.featured_image (and $page.Params.recipe $page.Params.recipe.image) -}}
+{{- if not $image -}}
+  {{- $image = site.Params.highlightImageDefault -}}
+{{- end -}}
+{{- $imageURL := $image -}}
+{{- if and $imageURL (not (or (strings.HasPrefix $imageURL "http://") (strings.HasPrefix $imageURL "https://"))) -}}
+  {{- $imageURL = $imageURL | relURL -}}
+{{- end -}}
+<article class="post-card">
+  <a class="post-card__link" href="{{ $page.RelPermalink }}">
+    <div class="post-card__media">
+      {{ if $imageURL }}
+        <img src="{{ $imageURL }}" alt="{{ $page.Params.featured_image_alt | default $page.Title }}">
+      {{ else }}
+        <div class="post-card__placeholder" aria-hidden="true">{{ slicestr $page.Title 0 1 }}</div>
+      {{ end }}
+    </div>
+    <div class="post-card__content">
+      <h3>{{ $page.Title }}</h3>
+      {{ with $page.Params.description }}
+        <p>{{ . }}</p>
+      {{ else }}
+        {{ with $page.Summary }}
+          <p>{{ . | plainify | truncate 140 }}</p>
+        {{ end }}
+      {{ end }}
+    </div>
+  </a>
+</article>

@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ partial "home/carousel.html" . }}
+  <section class="home-grid container">
+    <div class="section-header">
+      <h2>Latest Recipes &amp; Stories</h2>
+    </div>
+    {{ $pages := site.RegularPages.ByDate.Reverse }}
+    <div class="post-grid">
+      {{ range $pages }}
+        {{ partial "post-card.html" . }}
+      {{ else }}
+        <p class="empty-state">Posts are cooking! Come back soon for fresh recipes.</p>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

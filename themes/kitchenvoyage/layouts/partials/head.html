@@ -1,0 +1,20 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ with or .Params.seo_description .Params.description }}
+  <meta name="description" content="{{ . }}">
+{{ else }}
+  {{ with site.Params.tagline }}
+    <meta name="description" content="{{ . }}">
+  {{ end }}
+{{ end }}
+{{- $style := resources.Get "css/main.css" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+{{- $favicon := or .Params.favicon site.Params.favicon -}}
+{{- if $favicon -}}
+  {{- if or (strings.HasPrefix $favicon "http://") (strings.HasPrefix $favicon "https://") -}}
+    <link rel="icon" href="{{ $favicon }}">
+  {{- else -}}
+    <link rel="icon" href="{{ $favicon | relURL }}">
+  {{- end -}}
+{{- end -}}

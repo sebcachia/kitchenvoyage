@@ -1,0 +1,184 @@
+{{- $page := .Page -}}
+{{- $recipe := $page.Params.recipe -}}
+{{- if not $recipe -}}
+  <div class="recipe-card recipe-card--missing">
+    <p>Recipe details are not configured yet. Add a <code>recipe</code> map to the page front matter.</p>
+  </div>
+{{- else -}}
+  {{- $name := default $page.Title (or (.Get "name") (index $recipe "name")) -}}
+  {{- $description := default ($page.Params.description) (or (.Get "description") (index $recipe "description")) -}}
+  {{- $image := or (.Get "image") (index $recipe "image") $page.Params.featured_image site.Params.highlightImageDefault -}}
+  {{- $imageURL := "" -}}
+  {{- if $image -}}
+    {{- if or (strings.HasPrefix $image "http://") (strings.HasPrefix $image "https://") -}}
+      {{- $imageURL = $image -}}
+    {{- else -}}
+      {{- $imageURL = $image | absURL -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $yield := or (.Get "yield") (index $recipe "yield") -}}
+  {{- $prepTime := or (.Get "prepTime") (index $recipe "prepTime") -}}
+  {{- $cookTime := or (.Get "cookTime") (index $recipe "cookTime") -}}
+  {{- $totalTime := or (.Get "totalTime") (index $recipe "totalTime") -}}
+  {{- $keywords := or (.Get "keywords") (index $recipe "keywords") -}}
+  {{- $cuisine := or (.Get "cuisine") (index $recipe "cuisine") -}}
+  {{- $category := or (.Get "category") (index $recipe "category") -}}
+  {{- $authorName := default (site.Params.author.name) (or (.Get "author") (index $recipe "author") ($page.Params.author)) -}}
+  {{- $ingredientsRaw := index $recipe "ingredients" | default (slice) -}}
+  {{- $scratch := newScratch -}}
+  {{- $scratch.Set "ingredients" (slice) -}}
+  {{- range $ingredientsRaw }}
+    {{- $value := "" -}}
+    {{- if reflect.IsMap . }}
+      {{- if isset . "item" }}
+        {{- $value = index . "item" -}}
+      {{- else }}
+        {{- $value = printf "%v" . -}}
+      {{- end }}
+    {{- else }}
+      {{- $value = . -}}
+    {{- end }}
+    {{- if $value }}
+      {{- $scratch.Add "ingredients" (slice $value) -}}
+    {{- end }}
+  {{- end -}}
+  {{- $ingredientList := $scratch.Get "ingredients" -}}
+  {{- $instructionsRaw := index $recipe "instructions" | default (slice) -}}
+  {{- $scratch.Set "instructions" (slice) -}}
+  {{- range $instructionsRaw }}
+    {{- $value := "" -}}
+    {{- if reflect.IsMap . }}
+      {{- if isset . "step" }}
+        {{- $value = index . "step" -}}
+      {{- else }}
+        {{- $value = printf "%v" . -}}
+      {{- end }}
+    {{- else }}
+      {{- $value = . -}}
+    {{- end }}
+    {{- if $value }}
+      {{- $scratch.Add "instructions" (slice $value) -}}
+    {{- end }}
+  {{- end -}}
+  {{- $instructionList := $scratch.Get "instructions" -}}
+  {{- $notes := index $recipe "notes" -}}
+  {{- $nutrition := index $recipe "nutrition" -}}
+  <article class="recipe-card" itemscope itemtype="https://schema.org/Recipe">
+    <header>
+      <h2 itemprop="name">{{ $name }}</h2>
+      {{ with $description }}
+        <p itemprop="description">{{ . }}</p>
+      {{ end }}
+      <dl class="recipe-meta">
+        {{ with $yield }}
+          <div>
+            <dt>Yield</dt>
+            <dd itemprop="recipeYield">{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with $prepTime }}
+          <div>
+            <dt>Prep</dt>
+            <dd><time itemprop="prepTime" datetime="{{ . }}">{{ . }}</time></dd>
+          </div>
+        {{ end }}
+        {{ with $cookTime }}
+          <div>
+            <dt>Cook</dt>
+            <dd><time itemprop="cookTime" datetime="{{ . }}">{{ . }}</time></dd>
+          </div>
+        {{ end }}
+        {{ with $totalTime }}
+          <div>
+            <dt>Total</dt>
+            <dd><time itemprop="totalTime" datetime="{{ . }}">{{ . }}</time></dd>
+          </div>
+        {{ end }}
+        {{ with $cuisine }}
+          <div>
+            <dt>Cuisine</dt>
+            <dd itemprop="recipeCuisine">{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with $category }}
+          <div>
+            <dt>Category</dt>
+            <dd itemprop="recipeCategory">{{ . }}</dd>
+          </div>
+        {{ end }}
+      </dl>
+    </header>
+    <div class="recipe-columns">
+      <section class="recipe-section recipe-ingredients">
+        <h3>Ingredients</h3>
+        <ul>
+          {{ range $ingredientList }}
+            <li itemprop="recipeIngredient">{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+      <section class="recipe-section recipe-instructions">
+        <h3>Instructions</h3>
+        <ol>
+          {{ range $instructionList }}
+            <li itemprop="recipeInstructions">{{ . }}</li>
+          {{ end }}
+        </ol>
+      </section>
+      {{ with $nutrition }}
+        <section class="recipe-section recipe-nutrition">
+          <h3>Nutrition</h3>
+          <ul>
+            {{ range $key, $value := . }}
+              <li><strong>{{ humanize $key }}:</strong> {{ $value }}</li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    </div>
+    {{ with $notes }}
+      <aside class="recipe-notes">
+        <strong>Cook's Notes:</strong>
+        <p>{{ . }}</p>
+      </aside>
+    {{ end }}
+    {{ if $authorName }}
+      <meta itemprop="author" content="{{ $authorName }}">
+    {{ end }}
+    {{ if $imageURL }}
+      <meta itemprop="image" content="{{ $imageURL }}">
+    {{ end }}
+  </article>
+  {{- $json := dict
+      "@context" "https://schema.org"
+      "@type" "Recipe"
+      "name" $name
+      "description" $description
+      "recipeIngredient" $ingredientList
+      "recipeInstructions" $instructionList
+    -}}
+  {{- if $yield }}{{ $json = merge $json (dict "recipeYield" $yield) }}{{ end -}}
+  {{- if $prepTime }}{{ $json = merge $json (dict "prepTime" $prepTime) }}{{ end -}}
+  {{- if $cookTime }}{{ $json = merge $json (dict "cookTime" $cookTime) }}{{ end -}}
+  {{- if $totalTime }}{{ $json = merge $json (dict "totalTime" $totalTime) }}{{ end -}}
+  {{- if $cuisine }}{{ $json = merge $json (dict "recipeCuisine" $cuisine) }}{{ end -}}
+  {{- if $category }}{{ $json = merge $json (dict "recipeCategory" $category) }}{{ end -}}
+  {{- if $keywords -}}
+    {{- $keywordValue := cond (reflect.IsSlice $keywords) (delimit $keywords ", ") $keywords -}}
+    {{- $json = merge $json (dict "keywords" $keywordValue) -}}
+  {{- end -}}
+  {{- if $imageURL }}
+    {{- $json = merge $json (dict "image" (slice $imageURL)) -}}
+  {{- end -}}
+  {{- if $authorName }}
+    {{- $json = merge $json (dict "author" (dict "@type" "Person" "name" $authorName)) -}}
+  {{- end -}}
+  {{- with $nutrition }}
+    {{- $nutritionMap := dict "@type" "NutritionInformation" -}}
+    {{- range $key, $value := . }}
+      {{- $nutritionMap = merge $nutritionMap (dict $key $value) -}}
+    {{- end }}
+    {{- $json = merge $json (dict "nutrition" $nutritionMap) -}}
+  {{- end -}}
+  <script type="application/ld+json">{{ $json | jsonify }}</script>
+{{- end -}}

@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <section class="container content-list">
+    <header class="section-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}
+        <div class="section-intro">
+          {{ . }}
+        </div>
+      {{ end }}
+    </header>
+    {{ $pages := .RegularPagesRecursive }}
+    {{ $paginator := .Paginate ($pages.ByDate.Reverse) }}
+    <div class="post-grid">
+      {{ range $paginator.Pages }}
+        {{ partial "post-card.html" . }}
+      {{ else }}
+        <p class="empty-state">No stories to share just yet. Check back soon!</p>
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
+  </section>
+{{ end }}

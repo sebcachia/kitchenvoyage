@@ -1,0 +1,108 @@
+{{- $featured := where site.RegularPages "Params.featured" true -}}
+{{- $count := len $featured -}}
+{{- if gt $count 0 -}}
+  {{- $interval := site.Params.carouselInterval | default 7000 -}}
+  {{- $shouldAnimate := and (gt $count 1) (gt $interval 0) -}}
+  {{- $scratch := newScratch -}}
+  {{- $scratch.Set "seconds" (div $interval 1000) -}}
+  {{- if lt ($scratch.Get "seconds") 1 }}
+    {{- $scratch.Set "seconds" 1 -}}
+  {{- end -}}
+  {{- $intervalSeconds := printf "%ds" ($scratch.Get "seconds") -}}
+  {{- $carouselID := "featured-carousel" -}}
+  {{- $toggleName := printf "%s-toggle" $carouselID -}}
+  {{- $classes := slice "carousel" -}}
+  {{- if not $shouldAnimate }}
+    {{- $classes = $classes | append "carousel--static" -}}
+  {{- end -}}
+  <section class="home-carousel" id="{{ $carouselID }}">
+    {{ if gt $count 1 }}
+      <style>
+        #{{ $carouselID }} .carousel__toggle {
+          position: absolute;
+          opacity: 0;
+          pointer-events: none;
+          width: 0;
+          height: 0;
+        }
+        #{{ $carouselID }} .carousel__toggle:not(#{{ $carouselID }}-auto):checked ~ .carousel__slides .carousel__slide {
+          opacity: 0;
+          visibility: hidden;
+          animation: none;
+        }
+        {{ range $index, $_ := $featured }}
+        #{{ $carouselID }} #{{ $carouselID }}-{{ add $index 1 }}:checked ~ .carousel__slides .carousel__slide:nth-of-type({{ add $index 1 }}) {
+          opacity: 1;
+          visibility: visible;
+          animation: none;
+          z-index: 3;
+        }
+        {{ end }}
+      </style>
+    {{ end }}
+    <div class="{{ delimit $classes " " }}" style="--carousel-count: {{ $count }};{{ if $shouldAnimate }} --carousel-interval: {{ $intervalSeconds }};{{ end }}">
+      <input class="carousel__toggle" type="radio" name="{{ $toggleName }}" id="{{ $carouselID }}-auto" checked>
+      {{ range $index, $_ := $featured }}
+        <input class="carousel__toggle" type="radio" name="{{ $toggleName }}" id="{{ $carouselID }}-{{ add $index 1 }}">
+      {{ end }}
+      <div class="carousel__slides">
+        {{ range $index, $page := $featured }}
+          {{- $image := or $page.Params.featured_image (and $page.Params.recipe $page.Params.recipe.image) -}}
+          {{- if not $image }}
+            {{- $image = site.Params.highlightImageDefault -}}
+          {{- end -}}
+          {{- $imageURL := "" -}}
+          {{- if $image -}}
+            {{- if or (strings.HasPrefix $image "http://") (strings.HasPrefix $image "https://") -}}
+              {{- $imageURL = $image -}}
+            {{- else -}}
+              {{- $imageURL = $image | absURL -}}
+            {{- end -}}
+          {{- end -}}
+          {{- $prevIndex := mod (add (sub $index 1) $count) $count -}}
+          {{- $nextIndex := mod (add (add $index 1) $count) $count -}}
+          <article class="carousel__slide{{ if eq $index 0 }} is-initial{{ end }}" style="--slide-index: {{ $index }};">
+            {{ with $imageURL }}
+              <div class="carousel__image" style="background-image: url('{{ . }}');"></div>
+            {{ end }}
+            <div class="carousel__overlay">
+              <div class="carousel__content container">
+                <p class="carousel__kicker">{{ $page.Section | humanize }}</p>
+                <h2><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+                {{ with $page.Params.description }}
+                  <p>{{ . }}</p>
+                {{ else }}
+                  {{ with $page.Summary }}
+                    <p>{{ . | plainify | truncate 160 }}</p>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </div>
+            {{ if gt $count 1 }}
+              <label class="carousel__control carousel__control--prev" for="{{ printf "%s-%d" $carouselID (add $prevIndex 1) }}" aria-label="Previous featured story">
+                <span aria-hidden="true">‹</span>
+              </label>
+              <label class="carousel__control carousel__control--next" for="{{ printf "%s-%d" $carouselID (add $nextIndex 1) }}" aria-label="Next featured story">
+                <span aria-hidden="true">›</span>
+              </label>
+            {{ end }}
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{- else -}}
+  <section class="home-hero">
+    <div class="container hero-content">
+      <h1>{{ site.Title }}</h1>
+      {{ with site.Params.tagline }}
+        <p>{{ . }}</p>
+      {{ end }}
+      {{ with .Content }}
+        <div class="hero-intro">
+          {{ . }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{- end -}}

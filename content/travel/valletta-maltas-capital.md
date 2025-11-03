@@ -1,0 +1,41 @@
++++
+title = "Valletta, Malta's Capital"
+date = '2016-03-23'
+author = 'Marica'
+categories = ['Travel']
+tags = ['capital', 'city', 'Grand Harbour', 'history', 'home', 'Malta', 'Maltese', 'travel', 'Valletta']
+aliases = ['/2016/03/23/valletta-maltas-capital']
++++
+
+As a child, I have fond memories of our Saturday morning trip to Valletta. Mum would dress me and my brother up in one of our best attire. It was something we would look forward to, to hop on the bus (or as we used to call it *tal-linja*) and visit the Monti (a market selling various things including toys and clothes).
+[caption id="attachment_514" align="alignnone" width="1024"] The Old Malta Bus. Photo credit: [askii](https://www.flickr.com/photos/askii/4827945128/in/photolist-8mCtTf-7M3YMz-3pznhP-3JbFJC-9rHVmu-5BJnAK-4a2tzu-9oakaK-7YPHNX-9rPA2p-5KrZse-5Kwfm9-5KrZsg-5KrZst-EhAv9-8oZ1RL-oDi65e-9q4D4d-9odmGS-8mzkPc-9rEXmp-9rHVNJ-6wEEjy-9odprU-9E2wgL-2TxJTa-a4M3Qe-2TC4Ef-a8BxQE-7K2wQ6-2enZyB-EhBy8-9odopE-5uhYHo-EhACf-EhAxj-SDGcG-8QxoC6-2Txu5g-e6H1sK-MgTxy-5PGXAs-7M7WMf-8AS6rB-6UfFzG-6NbCBv-6m5ZA-4oNnNq-6YCamq-7Ees1R) (CC BY-SA 2.0)[/caption]
+Valletta holds a special place for Maltese people, especially those who hail from there or have relatives who were born there. It forms an important part of social life, not just today but since a long time. A trip to the Maltese Islands would be incomplete without spending some time in the City.
+*Il-Belt* (translating to *the City*), as it is known amongst the Maltese, was built following the Great Siege of Malta in 1565 and named after the Grandmaster of the Knights of Malta Jean de Valette. The fortified city is built in a grid form on a peninsula, with one side in the Grand Harbour and on the other side the Marsamxett Harbour. It hosts various museums, palaces and churches, including St. John's Co-Cathedral.
+When visiting Valletta, I suggest arriving there in the morning. As you enter the City, you will notice the newly renovated entrance and the Parliament building on your right side. This is followed by an open air theater, formerly the site of the [Royal Opera House](https://en.wikipedia.org/wiki/Royal_Opera_House,_Valletta) which was destroyed during WWII.
+Walking down busy Republic Street, you will pass by the Malta Law Courts, the first prominent building along the way. You can opt for breakfast at one of the most popular spots (both with locals and tourists alike) at Misrah ir-Repubblika, or as the Maltese refers to it *Pjazza Regina* (due to Queen Victoria's statue in this square). This is a place where people from all walks of life meet to discuss everything including football, politics and current affairs.
+The next noticeable building you will pass by is the [Grandmaster's Palace](https://en.wikipedia.org/wiki/Grandmaster%27s_Palace_(Valletta)" target="_blank), which is the largest palace in the city. It houses the Office of the President and the Palace Armoury, a collection of weapons of the period of the Knights of Malta.
+Walking all the way down Republic Street, you will end up next to [Fort St. Elmo](https://en.wikipedia.org/wiki/Fort_Saint_Elmo), a small star fort built in 1488. In 2015, the fort has undergone much needed restoration works and is again open to public. It houses the National War Museum, with memorabilia from WWI and WWII and exhibits relating to Malta's military history, ranging from Bronze Age to Malta's entry into EU in 2004.
+Malta's 7000 year history is beautifully explained in an audio-visual show at [The Malta Experience](http://www.themaltaexperience.com/), which is right next to Fort St. Elmo. The show is available in 16 languages and runs daily.
+Right opposite the building of the Malta Experience, you will find the [Mediterranean Conference Centre](https://en.wikipedia.org/wiki/Mediterranean_Conference_Centre), formerly known as La Sacra Infermeria (the hospital of the Knights of Malta). It was built as a hospital in 1574 and the main ward was the longest in Europe, housing knights and aristocrats, while the poor were squeezed onto shared beds in the ward below. Today, these premises are used for banquets, exhibitions, conferences and theatre productions.
+[caption id="attachment_672" align="alignnone" width="1024"] View of Valletta from Marsamxett Harbour with the magnificent dome of the Basilica of Our Lady of Mount Carmel quite prominent. Photo credit: [emmapidduck](https://www.flickr.com/photos/emmapidduck/5189778809/in/photolist-8UAYqZ-kkSJL9-aoXCKX-e9ogDz-kkSHML-kkSJaj-kkSSXQ-kkR3hp-kkQh22-e6Y6Gv-dYamAx-kkSPzN-dYg4a7-ap1rEy-kkQkFM-kkQSHe-kkRb9g-aoXC8X-bUdY44-8tbEb9-kkR2mB-7uj5ju-7uj5L9-7uj43J-7uj4Ru-kkSNVb-ap1iHU-kkQiK2-kkQmRn-kkQnxT-aYGcqk-8t8EnK-ap1mbE-ap1p53-aoXHBe-ap1kyh-as1wv4-ap1qpG-as49BJ-aoXEqi-as1viM-aoXBc2-6WTTbk-7ufcp6-8QtWn4-ap1kb3-dfxCnt-dfxGJs-dfxBFb-dfxXVd) (CC BY-SA 2.0)[/caption]
+If you continue downhill along the ring road, you will come across the Siege Bell War Memorial, commemorating those who lost their lives in the siege of Malta during WWII. This monument is situated right next to the Lower Barrakka Gardens. From here, you can really get a good view of the Grand Harbour and the Three Cities on the other side.
+Taking St. Dominic's Street back, you will pass by [Nenu the Artisan Baker](http://www.nenuthebaker.com/), a great place to taste the traditional Maltese food, sweets and drinks including the famous traditional Maltese *ftira* (pizza-like goodness made from Maltese bread dough).
+From here, you can take Merchants Street, passing by the old market hall (*[is-Suq tal-Belt](http://valletta2018.org/infrastructure-projects/the-regeneration-and-conservation-of-the-covered-market-is-suq-tal-belt/)*), which is currently undergoing renovation works. Once you get to St. John's Street, turn to your right till you get to [St. John's Co-Cathedral](http://stjohnscocathedral.com/). Take some time to look inside to admire the Baroque art and architecture, mostly by Mattia Preti. One of Caravaggio's masterpieces, *The Beheading of St. John the Baptist*, is the most famous piece in this church.
+Back onto Merchants Street and continue uphill, you will get to the Auberge de Castille, formerly one of the Knights' headquarters and today houses the Office of the Prime Minister. Past this to your left, you will find the Malta Stock Exchange and the entrance to the Upper Barraka Gardens. You can once again enjoy the breathtaking view of the Grand Harbour.
+[caption id="attachment_669" align="alignnone" width="2048"] View of the Grand Harbour from the Upper Barrakka Gardens. Photo credit: [Dan](https://www.flickr.com/photos/mrdan/8024348435/in/photolist-de5Te6-de5AAD-axGDok-5HiYQ-7ryDkk-5f9da3-aDFr1h-de5QCh-7rCKWN-5HiZM-de5SQh-7rCwDU-de5Q4j-cVcRxd-6k2rAN-6k2sjJ-6k2vYC-gzc4UD-gzbE5U-vjbDq-dMM7i-dzakUn-8HMVn6-vji3F-dMMCf-ekwvqh-3ddQYs-dMM6B-dMJ8m-xEPnth-xqCUNR-xH6jeB-xHHm9T-xGiHX7-xqwqJs-xEPwrh-xH9CHp-xqtx4h-xELBHA-xqA5Lc-xEPsRb-wL7ZTy-xqCRtK-xqwDxw-xqCRhT-xqCTiB-xqvj4d-wLdzNr-f136At-xHHo5g) (CC BY-NC 2.0)[/caption]
+For an evening drink, you can head to Strait Street, where you can find a couple of bars and restaurants. This street has an interesting past. Once a red light district, it had been frequented by British sailors and servicemen who were based on the Island. The street is currently undergoing regeneration works but you can still witness some of the old bar signs.
+While walking in Valletta, always remember to look up especially if you take the narrower streets. Besides the architecture which range from baroque to modernism, you can also admire the Maltese *gallerija* (balcony), completely made of wood and decorated in various colours.
+Other places of interest in Valletta:
+
+- Hastings Gardens, overlooking Marsamxett Harbour
+- St. James Cavalier, Castille Square
+- National Museum of Archeology, Republic Street
+- Toy Museum, Republic Street
+- Basilica of Our Lady of Mount Carmel, Old Theatre Street
+- Manoel Theatre, Old Theatre Street
+- Lascaris War Rooms, St. James Ditch
+- Valletta Waterfront, Pinto Wharf (houses a variety of restaurants)
+
+[googlemaps https://www.google.com/maps/d/embed?mid=z3vnCHiye2Bo.kbcoTPkETCQkandw=640andh=480]
+To read through my other posts in this series about Malta, please visit [here](/recipes/malta-my-home-country/).
+&nbsp;
