@@ -1,6 +1,6 @@
 +++
 title = 'Welcome'
-description = 'Wholesome recipes and stories from our kitchen table.'
+description = 'Journalling my voyage exploring new foods and places.'
 type = 'page'
 +++
 
