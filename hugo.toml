@@ -1,4 +1,4 @@
-baseURL = 'http://kitchenvoyage.com/'
+baseURL = 'https://kitchenvoyage.com/'
 languageCode = 'en-us'
 title = 'KitchenVoyage'
 theme = 'kitchenvoyage'
