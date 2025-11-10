@@ -9,7 +9,7 @@ theme = 'kitchenvoyage'
 [params]
   highlightImageDefault = ''
   logo = '/images/logo-black.png'
-  carouselInterval = 25
+  carouselInterval = 150
   favicon = '/favicon.png'
   tagline = 'Journalling my voyage exploring new foods and places.'
 
