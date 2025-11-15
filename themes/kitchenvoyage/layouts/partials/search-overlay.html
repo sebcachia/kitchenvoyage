@@ -1,0 +1,22 @@
+<div class="search-overlay" data-search-overlay aria-hidden="true">
+  <div class="search-overlay__panel" role="dialog" aria-modal="true" aria-label="Search site">
+    <button class="search-overlay__close" type="button" data-search-close>Esc</button>
+    <form class="search-form" action="{{ "/search/" | relURL }}" method="get" data-search-form>
+      <label class="sr-only" for="overlay-search-input">Search for stories</label>
+      <div class="search-form__field">
+        <input
+          class="search-form__input"
+          id="overlay-search-input"
+          type="text"
+          name="q"
+          placeholder="Search recipes, travel guides, tags..."
+          autocomplete="off"
+          spellcheck="false"
+          data-search-input>
+        <button class="search-form__submit" type="submit" aria-label="Search">
+          <span>Go</span>
+        </button>
+      </div>
+    </form>
+  </div>
+</div>

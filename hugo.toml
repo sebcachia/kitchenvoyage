@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'KitchenVoyage'
 theme = 'kitchenvoyage'
 
+[outputs]
+  home = ['HTML', 'JSON']
+
 [pagination]
   pagerSize = 12
 

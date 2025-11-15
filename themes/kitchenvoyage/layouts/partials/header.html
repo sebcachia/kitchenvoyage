@@ -24,19 +24,27 @@
         {{ end }}
       </span>
     </a>
-    {{ $current := . }}
-    <nav class="site-nav" aria-label="Primary">
-      {{ with site.Menus.main }}
-        {{ range . }}
-          {{ $item := . }}
-          {{ $url := $item.URL | relLangURL }}
-          {{ $active := or ($current.IsMenuCurrent "main" $item) ($current.HasMenuCurrent "main" $item) (eq $url $current.RelPermalink) }}
-          <a href="{{ $url }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}>{{ $item.Name }}</a>
+    <div class="header-actions">
+      {{ $current := . }}
+      <nav class="site-nav" aria-label="Primary">
+        {{ with site.Menus.main }}
+          {{ range . }}
+            {{ $item := . }}
+            {{ $url := $item.URL | relLangURL }}
+            {{ $active := or ($current.IsMenuCurrent "main" $item) ($current.HasMenuCurrent "main" $item) (eq $url $current.RelPermalink) }}
+            <a href="{{ $url }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}>{{ $item.Name }}</a>
+          {{ end }}
+        {{ else }}
+          {{ $isHome := $current.IsHome }}
+          <a href="{{ "/" | relLangURL }}"{{ if $isHome }} class="is-active" aria-current="page"{{ end }}>Home</a>
         {{ end }}
-      {{ else }}
-        {{ $isHome := $current.IsHome }}
-        <a href="{{ "/" | relLangURL }}"{{ if $isHome }} class="is-active" aria-current="page"{{ end }}>Home</a>
-      {{ end }}
-    </nav>
+      </nav>
+      <button type="button" class="search-toggle" data-search-toggle aria-label="Open site search">
+        <span class="sr-only">Open search</span>
+        <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true" focusable="false">
+          <path d="M9.5 2C5.913 2 3 4.913 3 8.5s2.913 6.5 6.5 6.5a6.46 6.46 0 0 0 3.429-1.002l4.786 4.787a1 1 0 0 0 1.414-1.415l-4.786-4.786A6.46 6.46 0 0 0 16 8.5C16 4.913 13.087 2 9.5 2zm0 2c2.51 0 4.5 1.99 4.5 4.5S12.01 13 9.5 13 5 11.01 5 8.5 6.99 4 9.5 4z" fill="currentColor"/>
+        </svg>
+      </button>
+    </div>
   </div>
 </header>

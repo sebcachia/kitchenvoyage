@@ -1,0 +1,37 @@
+{{- $scratch := newScratch -}}
+{{- $scratch.Set "entries" slice -}}
+{{- range $page := site.RegularPages -}}
+  {{- if not ($page.Params.search_exclude | default false) -}}
+    {{- $image := or $page.Params.featured_image (and $page.Params.recipe $page.Params.recipe.image) -}}
+    {{- if not $image -}}
+      {{- $image = site.Params.highlightImageDefault -}}
+    {{- end -}}
+    {{- $imageURL := "" -}}
+    {{- if $image -}}
+      {{- if or (strings.HasPrefix $image "http://") (strings.HasPrefix $image "https://") -}}
+        {{- $imageURL = $image -}}
+      {{- else -}}
+        {{- $imageURL = $image | absURL -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $description := "" -}}
+    {{- with $page.Params.description -}}
+      {{- $description = . -}}
+    {{- else -}}
+      {{- with $page.Summary -}}
+        {{- $description = (. | plainify | truncate 160) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $entry := dict
+      "title" $page.Title
+      "permalink" $page.RelPermalink
+      "section" $page.Section
+      "tags" (or $page.Params.tags (slice))
+      "description" $description
+      "image" $imageURL
+      "imageAlt" ($page.Params.featured_image_alt | default $page.Title)
+    -}}
+    {{- $scratch.Add "entries" $entry -}}
+  {{- end -}}
+{{- end -}}
+{{- $scratch.Get "entries" | jsonify -}}

@@ -3,13 +3,15 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="{{ if .IsHome }}home{{ else }}page{{ end }}">
+  <body class="{{ if .IsHome }}home{{ else }}page{{ end }}" data-search-index="{{ "index.json" | relURL }}">
     <div class="site-wrapper">
       {{ partial "header.html" . }}
+      {{ partial "search-overlay.html" . }}
       <main id="main-content" class="site-main">
         {{ block "main" . }}{{ end }}
       </main>
       {{ partial "footer.html" . }}
     </div>
+    {{ partial "head/js.html" . }}
   </body>
 </html>
